@@ -1,6 +1,6 @@
 FROM node:18-alpine
 
-WORKDIR /opt/yazilim-maas
+WORKDIR /opt/maaslar
 
 COPY . .
 
