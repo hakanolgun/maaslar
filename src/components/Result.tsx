@@ -28,6 +28,7 @@ const Result = () => {
       <a
         className="text-info"
         href="https://herkesicin.tcmb.gov.tr/wps/wcm/connect/ekonomi/hie/icerik/enflasyon+hesaplayici"
+        target="_blank"
       >
         Enflasyon hesaplama bağlantısı
       </a>

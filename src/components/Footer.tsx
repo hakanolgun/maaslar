@@ -5,7 +5,11 @@ const Footer = () => {
     <div className="footerContainer text-center">
       <p>
         Bu proje açık kaynak olarak{" "}
-        <a className="text-info" href="https://github.com/hakanolgun/maaslar">
+        <a
+          className="text-info"
+          href="https://github.com/hakanolgun/maaslar"
+          target="_blank"
+        >
           github hesabımda
         </a>{" "}
         bulunmaktadır.
