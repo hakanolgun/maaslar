@@ -44,7 +44,7 @@ export default function Home() {
               Bilişim sektöründeki ücretler hakkında fikir edinmenizi sağlar
             </li>
           </ul>
-          <h2>Ne Değildir?</h2>
+          <h2 className="mt-4">Ne Değildir?</h2>
           <ul style={{ alignSelf: "start" }}>
             <li>
               Maaşlara yan hakların dahil olup olmadığı net değildir (Yol, yemek
