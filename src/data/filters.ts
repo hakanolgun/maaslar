@@ -1,5 +1,5 @@
-export const tecrube = ["Junior", "Middle", "Senior"];
-export const position = [
+export const levels = ["Junior", "Middle", "Senior"];
+export const positions = [
   "Back-end Developer",
   "Full Stack Developer",
   "Front-end Developer",
@@ -68,7 +68,7 @@ export const position = [
   "Integration Manager",
   "Cyber Security",
 ];
-export const tech_stack = [
+export const tech_stacks = [
   "java",
   "react",
   "python",
@@ -425,7 +425,7 @@ export const tech_stack = [
   "server",
   "power bi sql excel",
 ];
-export const experience = [
+export const experiences = [
   "1 - 3 Yıl",
   "0 - 1 Yıl",
   "5 - 7 Yıl",
@@ -435,7 +435,7 @@ export const experience = [
   "10 - 12 Yıl",
   "15 Yıl ve üzeri",
 ];
-export const work_type = [
+export const work_types = [
   "Hibrit (Ofis + Remote)",
   "Remote",
   "Şu an remote ama hibrite döneceğiz.",
