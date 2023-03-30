@@ -13,7 +13,7 @@ const Result = () => {
   }
 
   return (
-    <div className="d-flex flex-column cardContainer text-white">
+    <div className="d-flex flex-column cardContainer text-white my-4">
       <p className="pt-3">
         Seçtiğiniz kriterlere uygun <strong>{results.count}</strong> kişi
         bulundu. Bu kişilerin;
@@ -47,7 +47,7 @@ const SalaryRow = ({ title, data }: any) => {
 
 function NotEnoughData() {
   return (
-    <div className="cardContainer">
+    <div className="cardContainer my-4">
       <p className="text-center mb-0 text-warning">
         Yeterli sayıda veri yok. Daha genel bir arama yapmayı deneyin
       </p>

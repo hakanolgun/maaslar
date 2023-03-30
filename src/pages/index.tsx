@@ -11,7 +11,7 @@ export default function Home() {
         <title>Yazılım Sektörü Ücretler</title>
       </Head>
       <section
-        style={{ minHeight: "500px", height: "100%" }}
+        style={{ minHeight: "100vh", backgroundColor: "black" }}
         className="container d-flex flex-column align-items-center justify-content-center p-4 h-100"
       >
         <Link

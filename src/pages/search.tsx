@@ -17,7 +17,10 @@ export default function Search() {
       <Head>
         <title>Yazılım Sektörü Ücretler</title>
       </Head>
-      <section className="d-flex flex-column justify-content-center align-items-center gap-2 py-4">
+      <section
+        style={{ backgroundColor: "black" }}
+        className="d-flex flex-column justify-content-center align-items-center gap-2 py-4"
+      >
         <SearchInfo />
         <MultiFilter
           options={positions}
