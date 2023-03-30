@@ -58,6 +58,11 @@ export default function Home() {
               Yüksek enflasyona sahip ve parasının değeri sürekli düşen bir
               ülkede sonuçlar her geçen ay güncel rakamların gerisinde kalır.
             </li>
+            <li>
+              Katılımcıların çoğunluğu yazılım geliştiriciler olduğu için diğer
+              branşlarda (tasarım, sistem vs.) yeterli veri bulunamadı yanıtı
+              alabilirsiniz
+            </li>
           </ul>
         </div>
       </section>
