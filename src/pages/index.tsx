@@ -11,12 +11,12 @@ export default function Home() {
         <title>Bilişim Sektörü Ücretler</title>
       </Head>
       <section
-        style={{ backgroundColor: "black" }}
+        style={{ backgroundColor: "black", minHeight: "80%" }}
         className="container d-flex flex-column align-items-center justify-content-center p-4"
       >
         <Link
           style={{ textDecoration: "none", width: "200px" }}
-          className="btn bg-purple my-4 text-white"
+          className="btn btn-lg bg-purple my-4 text-white"
           href="/search"
         >
           Arama Yap
