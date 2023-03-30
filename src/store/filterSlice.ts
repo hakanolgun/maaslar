@@ -5,7 +5,8 @@ import { useAppSelector } from "./hooks";
 interface IState {
   filters: {
     level: string[];
-    position: any[];
+    position: string[];
+    experience: string[];
   };
 }
 
@@ -13,6 +14,7 @@ const initialState: IState = {
   filters: {
     level: [],
     position: [],
+    experience: [],
   },
 };
 
@@ -26,10 +28,14 @@ export const filterSlice = createSlice({
     changePosition: (state, action) => {
       state.filters.position = action.payload;
     },
+    changeExperience: (state, action) => {
+      state.filters.experience = action.payload;
+    },
   },
 });
 
-export const { changeLevel, changePosition } = filterSlice.actions;
+export const { changeLevel, changePosition, changeExperience } =
+  filterSlice.actions;
 
 export const useFilters = () =>
   useAppSelector((s: RootState) => s.filters.filters);
