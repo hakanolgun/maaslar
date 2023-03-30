@@ -1,8 +1,8 @@
-import { IData } from "@/types/data";
+import { IData } from "@/types/types";
 
-export function getUniques(data: IData[], filter: string) {
+export function getUniques(data: any, filter: string) {
   const set = new Set();
-  data.forEach((item) => {
+  data.forEach((item: any) => {
     set.add(item[filter]);
   });
   const array = Array.from(set);
