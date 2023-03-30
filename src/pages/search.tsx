@@ -1,25 +1,24 @@
-import DATA from "@/data/data";
-import { Button, Checkbox } from "@nextui-org/react";
-import Link from "next/link";
-import React, { useEffect } from "react";
-import LevelFilter from "@/components/LevelFilter";
-import PositionFilter from "@/components/PositionFilter";
-import Header from "@/components/Header";
+import React from "react";
 import SearchBtn from "@/components/SearchBtn";
 import Result from "@/components/Result";
-
-// const x = getUniques(DATA, "currency");
-// console.log("array", x);
-
-// const y = getCities(DATA);
-// console.log("y", y);
+import MultiFilter from "@/components/MultiFilter";
+import { positions, experiences } from "@/data/filters";
+import { changeExperience, changePosition } from "@/store/filterSlice";
 
 export default function Search() {
   return (
     <main>
       <div className="d-flex flex-column justify-content-center align-items-center gap-2 py-4 bg-">
-        <LevelFilter />
-        <PositionFilter />
+        <MultiFilter
+          options={positions}
+          update={changePosition}
+          title="Pozisyon"
+        />
+        <MultiFilter
+          options={experiences}
+          update={changeExperience}
+          title="Tecrübe"
+        />
         <SearchBtn />
         <Result />
       </div>
