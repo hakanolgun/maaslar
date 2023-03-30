@@ -13,6 +13,7 @@ const initialState: IState = {
     position: [],
     experience: [],
     workType: [],
+    city: [],
   },
 };
 
@@ -32,11 +33,19 @@ export const filterSlice = createSlice({
     changeWorkType: (state, action) => {
       state.filters.workType = action.payload;
     },
+    changeCity: (state, action) => {
+      state.filters.city = action.payload;
+    },
   },
 });
 
-export const { changeLevel, changePosition, changeExperience, changeWorkType } =
-  filterSlice.actions;
+export const {
+  changeLevel,
+  changePosition,
+  changeExperience,
+  changeWorkType,
+  changeCity,
+} = filterSlice.actions;
 
 export const useFilters = () =>
   useAppSelector((s: RootState) => s.filters.filters);

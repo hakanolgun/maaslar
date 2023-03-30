@@ -25,6 +25,11 @@ export function getFilteredResult(filter: IFilter) {
       filter.workType.includes(item.work_type)
     );
   }
+  if (filter.city.length > 0) {
+    filteredArray = filteredArray.filter((item: IData) =>
+      filter.city.includes(item.city.trim().toLowerCase())
+    );
+  }
   return filteredArray;
 }
 

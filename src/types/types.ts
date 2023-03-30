@@ -18,4 +18,6 @@ export interface IFilter {
   position: string[];
   experience: string[];
   workType: string[];
+  techStack?: string[];
+  city: string[];
 }
