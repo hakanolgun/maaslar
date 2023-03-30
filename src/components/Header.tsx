@@ -3,15 +3,11 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="bg-dark py-4 d-flex flex-column justify-content-center text-white">
-      <Link
-        style={{ textDecoration: "none" }}
-        className="mb-0 fs-4 text-center text-white"
-        href="/"
-      >
-        Bilişim Sektörü Ücretler
+    <div className="bg-dark py-4 d-flex flex-column justify-content-center">
+      <Link style={{ textDecoration: "none" }} href="/">
+        <h1 className="text-center h1 text-purple">Bilişim Sektörü Ücretler</h1>
       </Link>
-      <p className="text-center fs-5 mb-0">2023 Şubat</p>
+      <p className="text-center text-warning mb-0">2023 Şubat</p>
     </div>
   );
 };

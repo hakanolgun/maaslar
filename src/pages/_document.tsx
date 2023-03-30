@@ -1,28 +1,11 @@
 import React from "react";
-import Document, {
-  Html,
-  Head,
-  Main,
-  NextScript,
-  DocumentContext,
-} from "next/document";
-import { CssBaseline } from "@nextui-org/react";
-import Header from "@/components/Header";
+import Document, { Html, Head, Main, NextScript } from "next/document";
 
 class MyDocument extends Document {
-  static async getInitialProps(ctx: DocumentContext) {
-    const initialProps = await Document.getInitialProps(ctx);
-    return {
-      ...initialProps,
-      styles: React.Children.toArray([initialProps.styles]),
-    };
-  }
-
   render() {
     return (
-      <Html lang="en">
+      <Html lang="tr">
         <Head>
-          {CssBaseline.flush()}
           <meta name="description" content="Bilişim Sektörü Ücretler" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="icon" href="/favicon.ico" />
@@ -32,7 +15,6 @@ class MyDocument extends Document {
           />
         </Head>
         <body>
-          <Header />
           <Main />
           <NextScript />
         </body>
