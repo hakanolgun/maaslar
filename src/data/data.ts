@@ -58,7 +58,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -156,7 +156,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Project Manager",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -185,7 +185,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, C / C++, JavaScript | Html | Css, React, Vue, React Native",
+      ".Net, NodeJS, C / C++, JavaScript , Html , Css, React, Vue, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Oyun",
@@ -199,7 +199,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -255,7 +255,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Python, JavaScript | Html | Css",
+    tech_stack: "Java, Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -269,7 +269,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -283,7 +283,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -297,7 +297,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, Docker",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, Docker",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -395,7 +395,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React Native",
+    tech_stack: "Php, JavaScript , Html , Css, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -409,7 +409,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Python, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -479,7 +479,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Go, JavaScript | Html | Css",
+    tech_stack: ".Net, Go, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -493,7 +493,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -605,7 +605,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -703,7 +703,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Go, Python, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Go, Python, JavaScript , Html , Css, React, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -731,7 +731,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -759,7 +759,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: ".Net, Php, JavaScript | Html | Css, Vue, Angular",
+    tech_stack: ".Net, Php, JavaScript , Html , Css, Vue, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -773,7 +773,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -801,7 +801,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Flutter",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Flutter",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -829,7 +829,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, React, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -857,7 +857,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -913,7 +913,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -927,7 +927,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -955,7 +955,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -983,7 +983,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Automation",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -1025,7 +1025,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -1081,7 +1081,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, c#",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, c#",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -1095,7 +1095,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -1109,7 +1109,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -1124,7 +1124,7 @@ const DATA = [
     level: "Middle",
     position: "Back-end Developer",
     tech_stack:
-      ".Net, NodeJS, JavaScript | Html | Css, Vue, Angular, Flutter, React Native",
+      ".Net, NodeJS, JavaScript , Html , Css, Vue, Angular, Flutter, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -1152,7 +1152,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -1208,7 +1208,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -1236,7 +1236,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -1278,7 +1278,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -1320,7 +1320,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -1334,7 +1334,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -1488,7 +1488,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, c#",
+    tech_stack: ".Net, JavaScript , Html , Css, c#",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -1642,7 +1642,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -1740,7 +1740,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -1880,7 +1880,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -1908,7 +1908,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -1922,7 +1922,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -1950,7 +1950,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -2020,7 +2020,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -2105,7 +2105,7 @@ const DATA = [
     level: "Middle",
     position: "Data Analyst",
     tech_stack:
-      "Java, .Net, Php, NodeJS, Go, Python, Kotlin, Swift, Objective C, C / C++, JavaScript | Html | Css, React, Vue, Angular, Flutter, React Native, Unity",
+      "Java, .Net, Php, NodeJS, Go, Python, Kotlin, Swift, Objective C, C / C++, JavaScript , Html , Css, React, Vue, Angular, Flutter, React Native, Unity",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -2119,7 +2119,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Go, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, Go, JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -2147,7 +2147,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -2203,7 +2203,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Azure",
+    tech_stack: ".Net, JavaScript , Html , Css, Azure",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -2245,7 +2245,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, Php, NodeJS, Go, Python, JavaScript | Html | Css",
+    tech_stack: "Java, Php, NodeJS, Go, Python, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -2343,7 +2343,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -2371,7 +2371,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -2413,7 +2413,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -2455,7 +2455,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -2581,7 +2581,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, Vue, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -2680,7 +2680,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      ".Net, Objective C, C / C++, JavaScript | Html | Css, React, Angular, Flutter, React Native",
+      ".Net, Objective C, C / C++, JavaScript , Html , Css, React, Angular, Flutter, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -2764,7 +2764,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Python, C / C++, JavaScript | Html | Css",
+    tech_stack: "Python, C / C++, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -2820,7 +2820,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Otomotiv",
@@ -2834,7 +2834,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -2876,7 +2876,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -2890,7 +2890,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, Go, JavaScript | Html | Css, React",
+    tech_stack: "Java, Go, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -2904,7 +2904,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Python, JavaScript | Html | Css, React",
+    tech_stack: "Java, Python, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -2946,7 +2946,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -2988,7 +2988,7 @@ const DATA = [
   {
     level: "Senior",
     position: "QA Manager",
-    tech_stack: "Java, Python, Swift, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, Python, Swift, JavaScript , Html , Css, React, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Kadın",
     company: "Outsource",
@@ -3002,7 +3002,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, Php, NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "Java, Php, NodeJS, Python, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -3016,7 +3016,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -3044,7 +3044,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -3114,7 +3114,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -3226,7 +3226,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -3268,7 +3268,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -3282,7 +3282,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Automation",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -3324,7 +3324,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -3352,7 +3352,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, Python, JavaScript | Html | Css, React",
+    tech_stack: "Php, Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -3394,7 +3394,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, Vue",
+    tech_stack: "Python, JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -3408,7 +3408,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -3436,7 +3436,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -3507,7 +3507,7 @@ const DATA = [
     level: "Senior",
     position: "Game Developer",
     tech_stack:
-      "Java, .Net, NodeJS, JavaScript | Html | Css, React, Vue, Unity",
+      "Java, .Net, NodeJS, JavaScript , Html , Css, React, Vue, Unity",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Oyun",
@@ -3591,7 +3591,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -3634,7 +3634,7 @@ const DATA = [
     level: "Middle",
     position: "Full Stack Developer",
     tech_stack:
-      "Php, NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+      "Php, NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -3648,7 +3648,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -3676,7 +3676,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -3928,7 +3928,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -3942,7 +3942,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -3998,7 +3998,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -4054,7 +4054,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -4068,7 +4068,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -4194,7 +4194,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -4236,7 +4236,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -4306,7 +4306,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -4334,7 +4334,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, Python, JavaScript | Html | Css",
+    tech_stack: "Java, Python, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -4348,7 +4348,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -4418,7 +4418,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -4474,7 +4474,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Jquery, javascript",
+    tech_stack: ".Net, JavaScript , Html , Css, Jquery, javascript",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -4488,7 +4488,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, NodeJS, Python, C / C++, JavaScript | Html | Css",
+    tech_stack: ".Net, Php, NodeJS, Python, C / C++, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -4572,7 +4572,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -4586,7 +4586,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -4600,7 +4600,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -4684,7 +4684,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, Php, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, Php, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -4698,7 +4698,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -4740,7 +4740,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -4754,7 +4754,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -4810,7 +4810,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, Php, NodeJS, JavaScript | Html | Css, Flutter",
+    tech_stack: ".Net, Php, NodeJS, JavaScript , Html , Css, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Outsource",
@@ -4838,7 +4838,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -4866,7 +4866,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Product Manager",
-    tech_stack: "Java, Kotlin, Swift, JavaScript | Html | Css",
+    tech_stack: "Java, Kotlin, Swift, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -4894,7 +4894,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -4964,7 +4964,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Data Analyst",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -5006,7 +5006,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -5020,7 +5020,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -5048,7 +5048,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -5160,7 +5160,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Python, C / C++, JavaScript | Html | Css, React, Qt",
+    tech_stack: "Python, C / C++, JavaScript , Html , Css, React, Qt",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -5174,7 +5174,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -5384,7 +5384,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Product Manager",
-    tech_stack: "Python, JavaScript | Html | Css, Vue",
+    tech_stack: "Python, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -5412,7 +5412,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -5426,7 +5426,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -5482,7 +5482,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -5496,7 +5496,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Flutter",
+    tech_stack: "JavaScript , Html , Css, React, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Banka",
@@ -5566,7 +5566,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -5608,7 +5608,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Plsql jsf jsp",
+    tech_stack: "Java, JavaScript , Html , Css, Plsql jsf jsp",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -5664,7 +5664,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -5721,7 +5721,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -5735,7 +5735,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -5777,7 +5777,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -5805,7 +5805,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -5875,7 +5875,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -5946,7 +5946,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, Swift, Objective C, C / C++, JavaScript | Html | Css, React, Angular",
+      "Java, Swift, Objective C, C / C++, JavaScript , Html , Css, React, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -5974,7 +5974,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -6100,7 +6100,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular, React Native",
+    tech_stack: "JavaScript , Html , Css, React, Angular, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -6114,7 +6114,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue, Angular",
+    tech_stack: "JavaScript , Html , Css, Vue, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -6142,7 +6142,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "Java, Kotlin, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, Kotlin, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -6184,7 +6184,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -6282,7 +6282,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -6310,7 +6310,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -6324,7 +6324,7 @@ const DATA = [
   {
     level: "Senior",
     position: "QA / Automation",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -6352,7 +6352,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Ruby, JavaScript | Html | Css",
+    tech_stack: "Ruby, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -6366,7 +6366,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -6408,7 +6408,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kripto",
@@ -6492,7 +6492,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -6507,7 +6507,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      "Java, .Net, NodeJS, Python, JavaScript | Html | Css, React, Angular",
+      "Java, .Net, NodeJS, Python, JavaScript , Html , Css, React, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -6535,7 +6535,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -6675,7 +6675,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -6731,7 +6731,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -6787,7 +6787,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -6815,7 +6815,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -6899,7 +6899,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Swift, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, Swift, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -6941,7 +6941,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -6955,7 +6955,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -6969,7 +6969,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -6983,7 +6983,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -7095,7 +7095,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -7165,7 +7165,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -7179,7 +7179,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -7221,7 +7221,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -7361,7 +7361,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -7431,7 +7431,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Data Engineer",
-    tech_stack: "Java, Python, JavaScript | Html | Css",
+    tech_stack: "Java, Python, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -7515,7 +7515,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Go, JavaScript | Html | Css, Vue",
+    tech_stack: "Go, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -7557,7 +7557,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -7628,7 +7628,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      ".Net, NodeJS, Python, Objective C, JavaScript | Html | Css, Angular",
+      ".Net, NodeJS, Python, Objective C, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -7656,7 +7656,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, Python, JavaScript | Html | Css",
+    tech_stack: "Php, Python, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -7698,7 +7698,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -7726,7 +7726,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -7740,7 +7740,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -7754,7 +7754,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -7810,7 +7810,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -7852,7 +7852,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -7866,7 +7866,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -7880,7 +7880,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kamu",
@@ -7950,7 +7950,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -7992,7 +7992,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -8020,7 +8020,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -8034,7 +8034,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -8048,7 +8048,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Angular",
+    tech_stack: "Php, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -8090,7 +8090,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -8104,7 +8104,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -8174,7 +8174,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -8188,7 +8188,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React Native",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -8230,7 +8230,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -8244,7 +8244,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -8370,7 +8370,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Php, Go, JavaScript | Html | Css",
+    tech_stack: "Php, Go, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Oyun",
@@ -8384,7 +8384,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Angular, X++",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Angular, X++",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -8440,7 +8440,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -8524,7 +8524,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -8580,7 +8580,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -8594,7 +8594,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -8608,7 +8608,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -8636,7 +8636,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -8692,7 +8692,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, Python, Swift, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: "Php, Python, Swift, JavaScript , Html , Css, Vue, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -8720,7 +8720,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "lojistik",
@@ -8874,7 +8874,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Oyun",
@@ -8888,7 +8888,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -8930,7 +8930,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, Python, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, NodeJS, Python, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -8944,7 +8944,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -9014,7 +9014,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Vue, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -9028,7 +9028,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -9182,7 +9182,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -9224,7 +9224,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -9252,7 +9252,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -9266,7 +9266,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -9350,7 +9350,7 @@ const DATA = [
   {
     level: "Senior",
     position: "business analyst ",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -9406,7 +9406,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -9434,7 +9434,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -9476,7 +9476,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, React",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -9490,7 +9490,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -9532,7 +9532,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Outsource",
@@ -9546,7 +9546,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -9644,7 +9644,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Director of Software Development",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -9728,7 +9728,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -9742,7 +9742,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -9784,7 +9784,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -9798,7 +9798,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, Go, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Go, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -9812,7 +9812,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -9840,7 +9840,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Python, Swift, JavaScript | Html | Css, React",
+    tech_stack: "Java, Python, Swift, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -9882,7 +9882,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, Python, C / C++, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, Python, C / C++, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -9896,7 +9896,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -9910,7 +9910,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Outsource",
@@ -9938,7 +9938,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -10036,7 +10036,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -10064,7 +10064,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -10106,7 +10106,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -10190,7 +10190,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, Php, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -10204,7 +10204,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -10218,7 +10218,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -10232,7 +10232,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -10358,7 +10358,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -10428,7 +10428,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Team / Tech Lead",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -10442,7 +10442,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -10526,7 +10526,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -10540,7 +10540,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "JavaScript , Html , Css, React, Vue, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -10610,7 +10610,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -10666,7 +10666,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React",
+    tech_stack: "Php, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -10680,7 +10680,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -10764,7 +10764,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -10848,7 +10848,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -10890,7 +10890,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -10932,7 +10932,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -10960,7 +10960,7 @@ const DATA = [
   {
     level: "Senior",
     position: "SAP/ABAP",
-    tech_stack: "JavaScript | Html | Css, ABAP",
+    tech_stack: "JavaScript , Html , Css, ABAP",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -10988,7 +10988,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Project Manager",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -11016,7 +11016,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -11072,7 +11072,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -11171,7 +11171,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "NodeJS, Swift, Objective C, JavaScript | Html | Css, React, Angular, React Native",
+      "NodeJS, Swift, Objective C, JavaScript , Html , Css, React, Angular, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -11185,7 +11185,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -11199,7 +11199,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -11227,7 +11227,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -11241,7 +11241,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Python, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -11255,7 +11255,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Data Analyst",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -11311,7 +11311,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -11325,7 +11325,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kamu",
@@ -11381,7 +11381,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -11395,7 +11395,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, Php, JavaScript | Html | Css",
+    tech_stack: ".Net, Php, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -11465,7 +11465,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React",
+    tech_stack: "Php, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -11535,7 +11535,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -11703,7 +11703,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Flutter, .net maui",
+    tech_stack: ".Net, JavaScript , Html , Css, Flutter, .net maui",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -11717,7 +11717,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -11913,7 +11913,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -11955,7 +11955,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -11970,7 +11970,7 @@ const DATA = [
     level: "Middle",
     position: "Team / Tech Lead",
     tech_stack:
-      ".Net, NodeJS, Python, C / C++, JavaScript | Html | Css, Angular, Flutter",
+      ".Net, NodeJS, Python, C / C++, JavaScript , Html , Css, Angular, Flutter",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -11998,7 +11998,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -12026,7 +12026,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -12040,7 +12040,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -12208,7 +12208,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -12222,7 +12222,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -12264,7 +12264,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Vue, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -12306,7 +12306,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -12320,7 +12320,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -12460,7 +12460,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -12474,7 +12474,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -12489,7 +12489,7 @@ const DATA = [
     level: "Senior",
     position: "DevOps Engineer",
     tech_stack:
-      "Java, .Net, Php, NodeJS, Go, Python, Kotlin, C / C++, JavaScript | Html | Css, React, Vue, Angular",
+      "Java, .Net, Php, NodeJS, Go, Python, Kotlin, C / C++, JavaScript , Html , Css, React, Vue, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Oyun",
@@ -12503,7 +12503,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -12517,7 +12517,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -12531,7 +12531,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -12545,7 +12545,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -12559,7 +12559,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -12643,7 +12643,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -12727,7 +12727,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -12769,7 +12769,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -12867,7 +12867,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -12881,7 +12881,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -12994,7 +12994,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -13064,7 +13064,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -13106,7 +13106,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css, React, Angular, React Native",
+    tech_stack: "JavaScript , Html , Css, React, Angular, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -13176,7 +13176,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -13190,7 +13190,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: ".Net, Go, Python, C / C++, JavaScript | Html | Css, React",
+    tech_stack: ".Net, Go, Python, C / C++, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -13246,7 +13246,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -13274,7 +13274,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, Python, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Php, Python, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -13302,7 +13302,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Project Manager",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -13316,7 +13316,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Data Analyst",
-    tech_stack: "Python, JavaScript | Html | Css, React Native, SQL, Power BI",
+    tech_stack: "Python, JavaScript , Html , Css, React Native, SQL, Power BI",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Sigortacılık",
@@ -13344,7 +13344,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Outsource",
@@ -13428,7 +13428,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, Vue",
+    tech_stack: "Python, JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -13456,7 +13456,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -13498,7 +13498,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, JavaScript | Html | Css, React",
+    tech_stack: "Java, Php, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -13526,7 +13526,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -13596,7 +13596,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -13611,7 +13611,7 @@ const DATA = [
     level: "Senior",
     position: "Project Manager",
     tech_stack:
-      "Java, .Net, NodeJS, Swift, Objective C, JavaScript | Html | Css, Angular, Unity",
+      "Java, .Net, NodeJS, Swift, Objective C, JavaScript , Html , Css, Angular, Unity",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -13751,7 +13751,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "JavaScript , Html , Css, React, Vue, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -13807,7 +13807,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -13821,7 +13821,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -13863,7 +13863,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Php, JavaScript , Html , Css, React, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -13919,7 +13919,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -13975,7 +13975,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -14031,7 +14031,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -14087,7 +14087,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -14101,7 +14101,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Go, Python, JavaScript | Html | Css, React",
+    tech_stack: "Go, Python, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -14143,7 +14143,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -14283,7 +14283,7 @@ const DATA = [
   {
     level: "Middle",
     position: "DevOps Engineer",
-    tech_stack: ".Net, Php, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, Php, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -14451,7 +14451,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React Native",
+    tech_stack: "Java, JavaScript , Html , Css, React Native",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -14465,7 +14465,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -14507,7 +14507,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -14564,7 +14564,7 @@ const DATA = [
     level: "Senior",
     position: "CTO",
     tech_stack:
-      "Java, .Net, NodeJS, Objective C, C / C++, JavaScript | Html | Css, React, Vue",
+      "Java, .Net, NodeJS, Objective C, C / C++, JavaScript , Html , Css, React, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -14592,7 +14592,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -14606,7 +14606,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -14662,7 +14662,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -14704,7 +14704,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -14774,7 +14774,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Team / Tech Lead",
-    tech_stack: "Java, Kotlin, Swift, JavaScript | Html | Css",
+    tech_stack: "Java, Kotlin, Swift, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -14873,7 +14873,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+      ".Net, NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -14887,7 +14887,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -14943,7 +14943,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "C / C++, JavaScript | Html | Css, Angular",
+    tech_stack: "C / C++, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -14971,7 +14971,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -14985,7 +14985,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -14999,7 +14999,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue, Angular, Flutter",
+    tech_stack: "Php, JavaScript , Html , Css, Vue, Angular, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -15069,7 +15069,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Php, JavaScript | Html | Css, Vue, Laravel",
+    tech_stack: "Php, JavaScript , Html , Css, Vue, Laravel",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -15237,7 +15237,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -15419,7 +15419,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Python, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -15433,7 +15433,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -15447,7 +15447,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -15489,7 +15489,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, .Net, NodeJS, Python, C / C++, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, NodeJS, Python, C / C++, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -15700,7 +15700,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      "Php, NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+      "Php, NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -15770,7 +15770,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -15812,7 +15812,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Python, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -15827,7 +15827,7 @@ const DATA = [
     level: "Senior",
     position: "DevOps Engineer",
     tech_stack:
-      ".Net, NodeJS, Go, Python, JavaScript | Html | Css, Vue, Flutter",
+      ".Net, NodeJS, Go, Python, JavaScript , Html , Css, Vue, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -15841,7 +15841,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -15925,7 +15925,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -15981,7 +15981,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, NodeJS, Go, Python, JavaScript | Html | Css, Flutter",
+    tech_stack: "Java, NodeJS, Go, Python, JavaScript , Html , Css, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -16009,7 +16009,7 @@ const DATA = [
   {
     level: "Middle",
     position: "DevOps Engineer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -16023,7 +16023,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -16065,7 +16065,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, Go, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Go, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -16079,7 +16079,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, React",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -16135,7 +16135,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -16192,7 +16192,7 @@ const DATA = [
     level: "Senior",
     position: "CTO",
     tech_stack:
-      "Php, NodeJS, Go, Ruby, C / C++, JavaScript | Html | Css, React",
+      "Php, NodeJS, Go, Ruby, C / C++, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -16248,7 +16248,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -16290,7 +16290,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, Vue, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -16304,7 +16304,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -16332,7 +16332,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "Swift, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Swift, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -16360,7 +16360,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -16388,7 +16388,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -16430,7 +16430,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -16556,7 +16556,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, Python, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Java, NodeJS, Python, JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -16626,7 +16626,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -16654,7 +16654,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -16668,7 +16668,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -16738,7 +16738,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -16753,7 +16753,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, JavaScript | Html | Css, React, Angular, Flutter",
+      ".Net, NodeJS, JavaScript , Html , Css, React, Angular, Flutter",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -16767,7 +16767,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -16781,7 +16781,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -16809,7 +16809,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -16893,7 +16893,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -16921,7 +16921,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -17005,7 +17005,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, Swift, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, NodeJS, Swift, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -17047,7 +17047,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -17103,7 +17103,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -17131,7 +17131,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue, Typescript ",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue, Typescript ",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -17187,7 +17187,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React, Flutter",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React, Flutter",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -17229,7 +17229,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React Native",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -17257,7 +17257,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular, Sql",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular, Sql",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -17313,7 +17313,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -17327,7 +17327,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -17411,7 +17411,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -17439,7 +17439,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -17481,7 +17481,7 @@ const DATA = [
   {
     level: "Senior",
     position: "QA / Automation",
-    tech_stack: "Java, Python, JavaScript | Html | Css",
+    tech_stack: "Java, Python, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Fintech",
@@ -17565,7 +17565,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -17593,7 +17593,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -17607,7 +17607,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -17635,7 +17635,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Data Scientist",
-    tech_stack: "Go, Python, JavaScript | Html | Css, React",
+    tech_stack: "Go, Python, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -17649,7 +17649,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -17663,7 +17663,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -17705,7 +17705,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -17719,7 +17719,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -17859,7 +17859,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -17915,7 +17915,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Java, Php, NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -17943,7 +17943,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -17957,7 +17957,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -17999,7 +17999,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -18013,7 +18013,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Product Manager",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -18027,7 +18027,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Cloud Engineer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -18055,7 +18055,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -18111,7 +18111,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -18139,7 +18139,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Product Manager",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -18195,7 +18195,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -18251,7 +18251,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -18265,7 +18265,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -18279,7 +18279,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -18419,7 +18419,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -18517,7 +18517,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -18532,7 +18532,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      ".Net, Kotlin, Swift, Objective C, JavaScript | Html | Css, Angular",
+      ".Net, Kotlin, Swift, Objective C, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -18546,7 +18546,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React Native",
+    tech_stack: "JavaScript , Html , Css, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -18574,7 +18574,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React",
+    tech_stack: "Php, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -18603,7 +18603,7 @@ const DATA = [
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
     tech_stack:
-      "Php, Python, C / C++, JavaScript | Html | Css, Vue, Angular, Flutter, React Native",
+      "Php, Python, C / C++, JavaScript , Html , Css, Vue, Angular, Flutter, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -18645,7 +18645,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -18673,7 +18673,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -18701,7 +18701,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -18715,7 +18715,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -18827,7 +18827,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -19009,7 +19009,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -19023,7 +19023,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -19037,7 +19037,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React Native",
+    tech_stack: "JavaScript , Html , Css, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -19093,7 +19093,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -19247,7 +19247,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -19261,7 +19261,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Automation",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -19317,7 +19317,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -19331,7 +19331,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -19373,7 +19373,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -19443,7 +19443,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -19457,7 +19457,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -19555,7 +19555,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -19667,7 +19667,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -19695,7 +19695,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -19737,7 +19737,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -19779,7 +19779,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Fintech",
@@ -19863,7 +19863,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -19989,7 +19989,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -20003,7 +20003,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -20017,7 +20017,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -20045,7 +20045,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -20074,7 +20074,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      "Java, NodeJS, Python, Swift, Objective C, JavaScript | Html | Css, React, React Native",
+      "Java, NodeJS, Python, Swift, Objective C, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Finans",
@@ -20102,7 +20102,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -20144,7 +20144,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -20172,7 +20172,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -20228,7 +20228,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Vue, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -20256,7 +20256,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Ar-Ge",
@@ -20326,7 +20326,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -20410,7 +20410,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Oracle apex, pl/sql",
+    tech_stack: "Php, JavaScript , Html , Css, Oracle apex, pl/sql",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -20424,7 +20424,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Project Manager",
-    tech_stack: ".Net, Php, JavaScript | Html | Css",
+    tech_stack: ".Net, Php, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -20620,7 +20620,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -20634,7 +20634,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -20690,7 +20690,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -20718,7 +20718,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -20774,7 +20774,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, Python, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, NodeJS, Python, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -20788,7 +20788,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -20830,7 +20830,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -20914,7 +20914,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -20970,7 +20970,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Python, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -20984,7 +20984,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -21068,7 +21068,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, c#",
+    tech_stack: ".Net, JavaScript , Html , Css, c#",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -21083,7 +21083,7 @@ const DATA = [
     level: "Middle",
     position: "Back-end Developer",
     tech_stack:
-      "Java, .Net, NodeJS, Go, Kotlin, JavaScript | Html | Css, Vue, React Native",
+      "Java, .Net, NodeJS, Go, Kotlin, JavaScript , Html , Css, Vue, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -21168,7 +21168,7 @@ const DATA = [
     level: "Senior",
     position: "Software Architect",
     tech_stack:
-      "Java, .Net, NodeJS, Go, JavaScript | Html | Css, React, Vue, Angular, Flutter, Unity",
+      "Java, .Net, NodeJS, Go, JavaScript , Html , Css, React, Vue, Angular, Flutter, Unity",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -21308,7 +21308,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Unity",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Unity",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -21322,7 +21322,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -21518,7 +21518,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -21532,7 +21532,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -21574,7 +21574,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -21602,7 +21602,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -21630,7 +21630,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -21644,7 +21644,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -21714,7 +21714,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -21770,7 +21770,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -21812,7 +21812,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -21882,7 +21882,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue, Angular",
+    tech_stack: "JavaScript , Html , Css, Vue, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -21896,7 +21896,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -21910,7 +21910,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Java, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22022,7 +22022,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -22050,7 +22050,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22064,7 +22064,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22078,7 +22078,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -22106,7 +22106,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -22162,7 +22162,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22232,7 +22232,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22246,7 +22246,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22274,7 +22274,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22288,7 +22288,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22302,7 +22302,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22330,7 +22330,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22386,7 +22386,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Manuel Test",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -22400,7 +22400,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22428,7 +22428,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -22470,7 +22470,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22498,7 +22498,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22512,7 +22512,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22526,7 +22526,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -22610,7 +22610,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -22722,7 +22722,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22806,7 +22806,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Php, NodeJS, Go, JavaScript | Html | Css, React",
+    tech_stack: "Php, NodeJS, Go, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -22820,7 +22820,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -22904,7 +22904,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -23044,7 +23044,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -23072,7 +23072,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Swift, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Swift, JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -23086,7 +23086,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -23128,7 +23128,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Kotlin, Swift, JavaScript | Html | Css",
+    tech_stack: "Java, Kotlin, Swift, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -23170,7 +23170,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -23254,7 +23254,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -23310,7 +23310,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, Abap",
+    tech_stack: "Python, JavaScript , Html , Css, Abap",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -23324,7 +23324,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -23338,7 +23338,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -23380,7 +23380,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -23408,7 +23408,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -23436,7 +23436,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -23478,7 +23478,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, React",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -23562,7 +23562,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -23576,7 +23576,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, .Net, C / C++, JavaScript | Html | Css, Apex",
+    tech_stack: "Java, .Net, C / C++, JavaScript , Html , Css, Apex",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -23590,7 +23590,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -23604,7 +23604,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Sigortacılık",
@@ -23744,7 +23744,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -23814,7 +23814,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -23856,7 +23856,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -23898,7 +23898,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -23968,7 +23968,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, React, Vue, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -23982,7 +23982,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -24080,7 +24080,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kamu",
@@ -24136,7 +24136,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -24164,7 +24164,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Outsource",
@@ -24206,7 +24206,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -24220,7 +24220,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, ABAP",
+    tech_stack: "JavaScript , Html , Css, ABAP",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -24234,7 +24234,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, Kotlin, JavaScript | Html | Css, React",
+    tech_stack: "Java, Kotlin, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -24262,7 +24262,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -24402,7 +24402,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -24416,7 +24416,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -24430,7 +24430,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Director of Software Development",
-    tech_stack: "Java, .Net, Go, JavaScript | Html | Css, Vue, React Native",
+    tech_stack: "Java, .Net, Go, JavaScript , Html , Css, Vue, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -24500,7 +24500,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, React",
+    tech_stack: "Python, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -24528,7 +24528,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -24682,7 +24682,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -24696,7 +24696,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -24864,7 +24864,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, Laravel",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, Laravel",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -24878,7 +24878,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "JavaScript , Html , Css, React, Vue, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -24934,7 +24934,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25018,7 +25018,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, Elektronik ",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, Elektronik ",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25060,7 +25060,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -25074,7 +25074,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25088,7 +25088,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, MSSQL",
+    tech_stack: ".Net, JavaScript , Html , Css, MSSQL",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25102,7 +25102,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -25131,7 +25131,7 @@ const DATA = [
     level: "Middle",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, .Net, NodeJS, JavaScript | Html | Css, React, Vue, Flutter",
+      "Java, .Net, NodeJS, JavaScript , Html , Css, React, Vue, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25159,7 +25159,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25188,7 +25188,7 @@ const DATA = [
     level: "Senior",
     position: "CTO",
     tech_stack:
-      "Php, NodeJS, Python, JavaScript | Html | Css, Vue, React Native",
+      "Php, NodeJS, Python, JavaScript , Html , Css, Vue, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -25202,7 +25202,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Flutter",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Flutter",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -25244,7 +25244,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, Php, Go, JavaScript | Html | Css",
+    tech_stack: "Java, Php, Go, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25258,7 +25258,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -25286,7 +25286,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25356,7 +25356,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Database Administrator (DBA)",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Apex",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Apex",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25370,7 +25370,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25412,7 +25412,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25819,7 +25819,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -25862,7 +25862,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, Php, NodeJS, JavaScript | Html | Css, React, React Native",
+      ".Net, Php, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25890,7 +25890,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25932,7 +25932,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -25988,7 +25988,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, NodeJS, Go, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, Go, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -26058,7 +26058,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -26086,7 +26086,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -26114,7 +26114,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Angular, ABAP",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Angular, ABAP",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -26142,7 +26142,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Lit element",
+    tech_stack: "Java, JavaScript , Html , Css, Lit element",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -26170,7 +26170,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -26184,7 +26184,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -26198,7 +26198,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -26297,7 +26297,7 @@ const DATA = [
     level: "Senior",
     position: "CTO",
     tech_stack:
-      ".Net, Php, NodeJS, JavaScript | Html | Css, React, Vue, Angular, React Native",
+      ".Net, Php, NodeJS, JavaScript , Html , Css, React, Vue, Angular, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -26353,7 +26353,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -26423,7 +26423,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -26703,7 +26703,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Sigortacılık",
@@ -26773,7 +26773,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -26787,7 +26787,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -26857,7 +26857,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -26885,7 +26885,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -26913,7 +26913,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -26983,7 +26983,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -27053,7 +27053,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Php, Python, JavaScript | Html | Css, React",
+    tech_stack: "Php, Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -27095,7 +27095,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -27109,7 +27109,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -27165,7 +27165,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -27179,7 +27179,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -27193,7 +27193,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -27207,7 +27207,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -27235,7 +27235,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -27264,7 +27264,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, .Net, Php, NodeJS, JavaScript | Html | Css, React, Vue, React Native, Unity",
+      "Java, .Net, Php, NodeJS, JavaScript , Html , Css, React, Vue, React Native, Unity",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Outsource",
@@ -27278,7 +27278,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -27320,7 +27320,7 @@ const DATA = [
   {
     level: "Senior",
     position: "QA / Automation",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -27348,7 +27348,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -27390,7 +27390,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -27404,7 +27404,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -27488,7 +27488,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, NodeJS, Go, Python, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, Go, Python, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -27502,7 +27502,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Fintech",
@@ -27601,7 +27601,7 @@ const DATA = [
     level: "Senior",
     position: "Software Architect",
     tech_stack:
-      "Java, Php, NodeJS, Kotlin, JavaScript | Html | Css, React, Vue, Angular, Flutter",
+      "Java, Php, NodeJS, Kotlin, JavaScript , Html , Css, React, Vue, Angular, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -27630,7 +27630,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      "Java, .Net, NodeJS, Python, Swift, JavaScript | Html | Css, React",
+      "Java, .Net, NodeJS, Python, Swift, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Banka",
@@ -27700,7 +27700,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -27714,7 +27714,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -27798,7 +27798,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -27812,7 +27812,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, Php, NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -27868,7 +27868,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -27882,7 +27882,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -27925,7 +27925,7 @@ const DATA = [
     level: "Middle",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, Go, JavaScript | Html | Css, Vue, Angular, Flutter",
+      ".Net, NodeJS, Go, JavaScript , Html , Css, Vue, Angular, Flutter",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -27953,7 +27953,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, Go, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Go, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -27981,7 +27981,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -28023,7 +28023,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Vue, Angular",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Vue, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -28065,7 +28065,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "JavaScript | Html | Css, Sap ABAP, SQL",
+    tech_stack: "JavaScript , Html , Css, Sap ABAP, SQL",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -28093,7 +28093,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -28191,7 +28191,7 @@ const DATA = [
   {
     level: "Junior",
     position: "QA / Manuel Test",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -28317,7 +28317,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -28345,7 +28345,7 @@ const DATA = [
   {
     level: "Junior",
     position: "QA / Automation",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -28415,7 +28415,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, Go, JavaScript | Html | Css",
+    tech_stack: ".Net, Go, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Fintech",
@@ -28429,7 +28429,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -28457,7 +28457,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -28472,7 +28472,7 @@ const DATA = [
     level: "Senior",
     position: "Software Architect",
     tech_stack:
-      ".Net, NodeJS, Python, Swift, Objective C, C / C++, JavaScript | Html | Css, Angular, Ionic",
+      ".Net, NodeJS, Python, Swift, Objective C, C / C++, JavaScript , Html , Css, Angular, Ionic",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -28500,7 +28500,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yapay Zeka",
@@ -28570,7 +28570,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React, Flutter",
+    tech_stack: "JavaScript , Html , Css, React, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -28710,7 +28710,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -28752,7 +28752,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, Python, JavaScript | Html | Css",
+    tech_stack: "Php, Python, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -28766,7 +28766,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, Php, NodeJS, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Finans",
@@ -28794,7 +28794,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -28836,7 +28836,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -29004,7 +29004,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -29088,7 +29088,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Go, JavaScript | Html | Css",
+    tech_stack: "Go, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -29200,7 +29200,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Angular",
+    tech_stack: "Php, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -29242,7 +29242,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -29327,7 +29327,7 @@ const DATA = [
     level: "Middle",
     position: "Cyber Security ",
     tech_stack:
-      "Java, .Net, NodeJS, Go, Python, C / C++, JavaScript | Html | Css, Angular, React Native, Unity, Unreal, Burpsuite, wireshark",
+      "Java, .Net, NodeJS, Go, Python, C / C++, JavaScript , Html , Css, Angular, React Native, Unity, Unreal, Burpsuite, wireshark",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -29355,7 +29355,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -29369,7 +29369,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -29383,7 +29383,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, SharePoint",
+    tech_stack: ".Net, JavaScript , Html , Css, React, SharePoint",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -29467,7 +29467,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -29579,7 +29579,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -29607,7 +29607,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -29649,7 +29649,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -29663,7 +29663,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -29817,7 +29817,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -29831,7 +29831,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -29873,7 +29873,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, Go, JavaScript | Html | Css, Sveltekit",
+    tech_stack: "Php, Go, JavaScript , Html , Css, Sveltekit",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -29943,7 +29943,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -29985,7 +29985,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -30013,7 +30013,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Delphi",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Delphi",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -30027,7 +30027,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React Native",
+    tech_stack: "JavaScript , Html , Css, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -30055,7 +30055,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -30139,7 +30139,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -30153,7 +30153,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -30251,7 +30251,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Product Owner",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -30307,7 +30307,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -30335,7 +30335,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -30377,7 +30377,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -30405,7 +30405,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -30447,7 +30447,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -30517,7 +30517,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -30545,7 +30545,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -30587,7 +30587,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -30699,7 +30699,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -30713,7 +30713,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, .Net, Python, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, Python, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Savunma",
@@ -30741,7 +30741,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -30756,7 +30756,7 @@ const DATA = [
     level: "Junior",
     position: "Full Stack Developer",
     tech_stack:
-      "NodeJS, Python, JavaScript | Html | Css, React, ansible, traefik",
+      "NodeJS, Python, JavaScript , Html , Css, React, ansible, traefik",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -30784,7 +30784,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -30798,7 +30798,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -30812,7 +30812,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, jQuery",
+    tech_stack: ".Net, JavaScript , Html , Css, jQuery",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -31162,7 +31162,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -31344,7 +31344,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -31484,7 +31484,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -31540,7 +31540,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -31568,7 +31568,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, TypeScript, Lerna, NPM",
+    tech_stack: "JavaScript , Html , Css, React, TypeScript, Lerna, NPM",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -31750,7 +31750,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -31848,7 +31848,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -31862,7 +31862,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -31876,7 +31876,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -31890,7 +31890,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -31932,7 +31932,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Business Analyst",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -31974,7 +31974,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -32058,7 +32058,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -32128,7 +32128,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -32156,7 +32156,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -32184,7 +32184,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -32198,7 +32198,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React Native",
+    tech_stack: "JavaScript , Html , Css, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -32212,7 +32212,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -32226,7 +32226,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -32254,7 +32254,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -32352,7 +32352,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -32394,7 +32394,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, ",
+    tech_stack: ".Net, JavaScript , Html , Css, ",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -32436,7 +32436,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -32478,7 +32478,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -32520,7 +32520,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, Python, Objective C, JavaScript | Html | Css",
+    tech_stack: "Java, Php, Python, Objective C, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -32576,7 +32576,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -32632,7 +32632,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -32660,7 +32660,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -32758,7 +32758,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -32814,7 +32814,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Product Manager",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -32842,7 +32842,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -32870,7 +32870,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -32898,7 +32898,7 @@ const DATA = [
   {
     level: "Junior",
     position: "DevOps Engineer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -32926,7 +32926,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -32941,7 +32941,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      ".Net, NodeJS, Python, JavaScript | Html | Css, React, Angular, React Native",
+      ".Net, NodeJS, Python, JavaScript , Html , Css, React, Angular, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -32983,7 +32983,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -33110,7 +33110,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -33124,7 +33124,7 @@ const DATA = [
   {
     level: "Middle",
     position: "DevOps Engineer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -33194,7 +33194,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -33208,7 +33208,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -33236,7 +33236,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -33250,7 +33250,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Data Scientist",
-    tech_stack: ".Net, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -33292,7 +33292,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -33348,7 +33348,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -33362,7 +33362,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -33460,7 +33460,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -33503,7 +33503,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      "Java, NodeJS, Go, Python, JavaScript | Html | Css, React, Angular, React Native",
+      "Java, NodeJS, Go, Python, JavaScript , Html , Css, React, Angular, React Native",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -33573,7 +33573,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -33587,7 +33587,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -33601,7 +33601,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Machine Learning Engineer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -33615,7 +33615,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -33643,7 +33643,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -33741,7 +33741,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -33769,7 +33769,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, SQL",
+    tech_stack: ".Net, JavaScript , Html , Css, SQL",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -33923,7 +33923,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -33979,7 +33979,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -34077,7 +34077,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -34105,7 +34105,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Sağlık ",
@@ -34175,7 +34175,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -34301,7 +34301,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -34371,7 +34371,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -34455,7 +34455,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Support",
-    tech_stack: "JavaScript | Html | Css, T-SQL",
+    tech_stack: "JavaScript , Html , Css, T-SQL",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -34497,7 +34497,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -34511,7 +34511,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -34525,7 +34525,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, Python, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Java, Python, JavaScript , Html , Css, React, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -34581,7 +34581,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, NodeJS, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, NodeJS, Python, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -34638,7 +34638,7 @@ const DATA = [
     level: "Junior",
     position: "Front-end Developer",
     tech_stack:
-      "NodeJS, JavaScript | Html | Css, Angular, AngularJS, TypeScript",
+      "NodeJS, JavaScript , Html , Css, Angular, AngularJS, TypeScript",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Eğitim",
@@ -34708,7 +34708,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Director of Software Development",
-    tech_stack: "JavaScript | Html | Css, Vue, Angular, React Native",
+    tech_stack: "JavaScript , Html , Css, Vue, Angular, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -34737,7 +34737,7 @@ const DATA = [
     level: "Senior",
     position: "Front-end Developer",
     tech_stack:
-      "Java, .Net, NodeJS, JavaScript | Html | Css, React, Angular, React Native",
+      "Java, .Net, NodeJS, JavaScript , Html , Css, React, Angular, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -34835,7 +34835,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Java, Php, NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Java, Php, NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -34877,7 +34877,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, Python, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, Python, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -34919,7 +34919,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -34989,7 +34989,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Consultant",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -35003,7 +35003,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -35129,7 +35129,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Director of Software Development",
-    tech_stack: ".Net, Php, NodeJS, JavaScript | Html | Css, Angular, Unity",
+    tech_stack: ".Net, Php, NodeJS, JavaScript , Html , Css, Angular, Unity",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -35199,7 +35199,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -35227,7 +35227,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -35297,7 +35297,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -35367,7 +35367,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -35382,7 +35382,7 @@ const DATA = [
     level: "Senior",
     position: "Mobile Application Developer (Full Stack)",
     tech_stack:
-      "NodeJS, C / C++, JavaScript | Html | Css, React, Vue, Flutter, React Native",
+      "NodeJS, C / C++, JavaScript , Html , Css, React, Vue, Flutter, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kobi",
@@ -35396,7 +35396,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -35438,7 +35438,7 @@ const DATA = [
   {
     level: "Senior",
     position: "SAP/ABAP",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -35480,7 +35480,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -35508,7 +35508,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Support",
-    tech_stack: "JavaScript | Html | Css, SQL",
+    tech_stack: "JavaScript , Html , Css, SQL",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -35564,7 +35564,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular, Ionic Framework",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular, Ionic Framework",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -35634,7 +35634,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -35662,7 +35662,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React",
+    tech_stack: "Php, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Freelancer",
@@ -35676,7 +35676,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Data Scientist",
-    tech_stack: "Java, Python, C / C++, JavaScript | Html | Css",
+    tech_stack: "Java, Python, C / C++, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -35733,7 +35733,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, Python, JavaScript | Html | Css, React, React Native",
+      ".Net, NodeJS, Python, JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -35747,7 +35747,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -35775,7 +35775,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -35789,7 +35789,7 @@ const DATA = [
   {
     level: "Middle",
     position: "DevOps Engineer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -35845,7 +35845,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -35887,7 +35887,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -35943,7 +35943,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -35957,7 +35957,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Angular",
+    tech_stack: "Php, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -36013,7 +36013,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -36027,7 +36027,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -36055,7 +36055,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -36153,7 +36153,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css, Unity",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css, Unity",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -36182,7 +36182,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      "Php, NodeJS, Ruby, JavaScript | Html | Css, React, React Native",
+      "Php, NodeJS, Ruby, JavaScript , Html , Css, React, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -36196,7 +36196,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, Abap",
+    tech_stack: "JavaScript , Html , Css, Abap",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -36238,7 +36238,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -36280,7 +36280,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -36294,7 +36294,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -36308,7 +36308,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Salesforce",
+    tech_stack: "JavaScript , Html , Css, Salesforce",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -36378,7 +36378,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, Php, NodeJS, JavaScript | Html | Css",
+    tech_stack: ".Net, Php, NodeJS, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -36392,7 +36392,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -36434,7 +36434,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -36602,7 +36602,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Jquery, PostgreSql",
+    tech_stack: ".Net, JavaScript , Html , Css, Jquery, PostgreSql",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -36630,7 +36630,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Flutter",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -36686,7 +36686,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -36770,7 +36770,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -36784,7 +36784,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -36812,7 +36812,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -36868,7 +36868,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Python, JavaScript | Html | Css, React Native",
+    tech_stack: "Java, Python, JavaScript , Html , Css, React Native",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -36882,7 +36882,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Banka",
@@ -36966,7 +36966,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -36994,7 +36994,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Go, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Go, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -37008,7 +37008,7 @@ const DATA = [
   {
     level: "Middle",
     position: "DevOps Engineer",
-    tech_stack: "Go, JavaScript | Html | Css",
+    tech_stack: "Go, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Oyun",
@@ -37022,7 +37022,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -37036,7 +37036,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: "Php, JavaScript , Html , Css, Vue, Flutter",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -37078,7 +37078,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -37092,7 +37092,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, PL/SQL Oracle Apex",
+    tech_stack: "JavaScript , Html , Css, PL/SQL Oracle Apex",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -37134,7 +37134,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -37162,7 +37162,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -37218,7 +37218,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Vue, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -37232,7 +37232,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, Php, NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -37330,7 +37330,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -37358,7 +37358,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -37428,7 +37428,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -37540,7 +37540,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -37568,7 +37568,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -37652,7 +37652,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Sağlık",
@@ -37806,7 +37806,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -37862,7 +37862,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Java, .Net, Python, Kotlin, C / C++, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, Python, Kotlin, C / C++, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -37876,7 +37876,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -37890,7 +37890,7 @@ const DATA = [
   {
     level: "Junior",
     position: "AI Developer",
-    tech_stack: "Python, JavaScript | Html | Css, React",
+    tech_stack: "Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -37918,7 +37918,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -37947,7 +37947,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      ".Net, NodeJS, Go, Python, JavaScript | Html | Css, Vue, Flutter",
+      ".Net, NodeJS, Go, Python, JavaScript , Html , Css, Vue, Flutter",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -37975,7 +37975,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -37990,7 +37990,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      "Php, NodeJS, JavaScript | Html | Css, React, Vue, Flutter, React Native",
+      "Php, NodeJS, JavaScript , Html , Css, React, Vue, Flutter, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -38004,7 +38004,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Flutter",
+    tech_stack: "Php, JavaScript , Html , Css, Flutter",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -38060,7 +38060,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -38074,7 +38074,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, CF",
+    tech_stack: "JavaScript , Html , Css, CF",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -38088,7 +38088,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -38116,7 +38116,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Mobile Application Developer (Android)",
-    tech_stack: "Java, Kotlin, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, Kotlin, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -38172,7 +38172,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -38201,7 +38201,7 @@ const DATA = [
     level: "Junior",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, NodeJS, Python, JavaScript | Html | Css, React, Flutter, Rust",
+      "Java, NodeJS, Python, JavaScript , Html , Css, React, Flutter, Rust",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Otomotiv",
@@ -38272,7 +38272,7 @@ const DATA = [
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
     tech_stack:
-      "Java, .Net, Php, NodeJS, Go, Python, C / C++, JavaScript | Html | Css, React, Vue, Angular, Flutter, React Native",
+      "Java, .Net, Php, NodeJS, Go, Python, C / C++, JavaScript , Html , Css, React, Vue, Angular, Flutter, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -38286,7 +38286,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -38342,7 +38342,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -38412,7 +38412,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -38440,7 +38440,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -38454,7 +38454,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -38468,7 +38468,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, Cobol ",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, Cobol ",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -38552,7 +38552,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -38594,7 +38594,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -38608,7 +38608,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -38650,7 +38650,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -38720,7 +38720,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -38748,7 +38748,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Eğitim",
@@ -38790,7 +38790,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -38804,7 +38804,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -38860,7 +38860,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -38916,7 +38916,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Flutter",
+    tech_stack: "Php, JavaScript , Html , Css, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -38930,7 +38930,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -38944,7 +38944,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -38958,7 +38958,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -38986,7 +38986,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -39028,7 +39028,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -39126,7 +39126,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -39183,7 +39183,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, Php, JavaScript | Html | Css, React, Angular, Flutter, React Native",
+      ".Net, Php, JavaScript , Html , Css, React, Angular, Flutter, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -39212,7 +39212,7 @@ const DATA = [
     level: "Junior",
     position: "QA / Manuel Test",
     tech_stack:
-      "Java, .Net, NodeJS, Python, Swift, C / C++, JavaScript | Html | Css, React",
+      "Java, .Net, NodeJS, Python, Swift, C / C++, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -39226,7 +39226,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular, Flutter",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -39240,7 +39240,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -39268,7 +39268,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -39282,7 +39282,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -39338,7 +39338,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -39353,7 +39353,7 @@ const DATA = [
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
     tech_stack:
-      "Java, .Net, Kotlin, JavaScript | Html | Css, React Native, Pascal",
+      "Java, .Net, Kotlin, JavaScript , Html , Css, React Native, Pascal",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -39577,7 +39577,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -39619,7 +39619,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Manuel Test",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -39633,7 +39633,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -39661,7 +39661,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Turizm",
@@ -39675,7 +39675,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -39745,7 +39745,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -39858,7 +39858,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Php, JavaScript | Html | Css, React, Vue, Flutter, React Native",
+      "Php, JavaScript , Html , Css, React, Vue, Flutter, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -39900,7 +39900,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -39914,7 +39914,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -39970,7 +39970,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -40054,7 +40054,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -40068,7 +40068,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, Python, JavaScript | Html | Css, Angular, Typescript ",
+    tech_stack: "Java, Python, JavaScript , Html , Css, Angular, Typescript ",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -40138,7 +40138,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -40152,7 +40152,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -40166,7 +40166,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Python, Objective C, C / C++, JavaScript | Html | Css",
+    tech_stack: "Python, Objective C, C / C++, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -40236,7 +40236,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, Python, JavaScript | Html | Css",
+    tech_stack: "Php, Python, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -40320,7 +40320,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -40404,7 +40404,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -40488,7 +40488,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -40530,7 +40530,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, Php, NodeJS, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -40544,7 +40544,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -40642,7 +40642,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -40656,7 +40656,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -40684,7 +40684,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -40698,7 +40698,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -40712,7 +40712,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -40796,7 +40796,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React, AngularJS",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React, AngularJS",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -40894,7 +40894,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -41020,7 +41020,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Flutter",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Flutter",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -41062,7 +41062,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "Java, Swift, JavaScript | Html | Css, React Native",
+    tech_stack: "Java, Swift, JavaScript , Html , Css, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -41076,7 +41076,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -41132,7 +41132,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Project Manager",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Vue, Flutter",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -41146,7 +41146,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -41160,7 +41160,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -41174,7 +41174,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Eğitim",
@@ -41202,7 +41202,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -41245,7 +41245,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      "Java, Php, NodeJS, Python, JavaScript | Html | Css, React, React Native, Unity",
+      "Java, Php, NodeJS, Python, JavaScript , Html , Css, React, React Native, Unity",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -41259,7 +41259,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -41287,7 +41287,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Project Manager",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -41315,7 +41315,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -41385,7 +41385,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Angular",
+    tech_stack: "Php, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -41470,7 +41470,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -41582,7 +41582,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -41610,7 +41610,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, C / C++, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, C / C++, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -41638,7 +41638,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -41666,7 +41666,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -41680,7 +41680,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -41694,7 +41694,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -41722,7 +41722,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -41792,7 +41792,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -41890,7 +41890,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -41904,7 +41904,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Diğer",
@@ -41918,7 +41918,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -41932,7 +41932,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -42002,7 +42002,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -42016,7 +42016,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -42030,7 +42030,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -42044,7 +42044,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, JavaScript | Html | Css, React, Spring Boot",
+    tech_stack: "Java, Php, JavaScript , Html , Css, React, Spring Boot",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -42058,7 +42058,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -42170,7 +42170,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -42226,7 +42226,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React",
+    tech_stack: "Php, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -42241,7 +42241,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, .Net, Php, NodeJS, JavaScript | Html | Css, React, React Native",
+      "Java, .Net, Php, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -42255,7 +42255,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Embedded Software Developer",
-    tech_stack: "Java, .Net, Python, C / C++, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, Python, C / C++, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -42269,7 +42269,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kamu",
@@ -42381,7 +42381,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, Php, NodeJS, Go, Python, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, Php, NodeJS, Go, Python, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -42423,7 +42423,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -42451,7 +42451,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -42465,7 +42465,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -42507,7 +42507,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -42535,7 +42535,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -42577,7 +42577,7 @@ const DATA = [
   {
     level: "Junior",
     position: "DevOps Engineer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -42619,7 +42619,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -42745,7 +42745,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Game Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Unity",
+    tech_stack: ".Net, JavaScript , Html , Css, Unity",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Oyun",
@@ -42759,7 +42759,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -42773,7 +42773,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -42843,7 +42843,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -42871,7 +42871,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -42941,7 +42941,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -42983,7 +42983,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -43011,7 +43011,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -43081,7 +43081,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -43123,7 +43123,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -43179,7 +43179,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue, Tailwind",
+    tech_stack: "JavaScript , Html , Css, Vue, Tailwind",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -43249,7 +43249,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Objective C, JavaScript | Html | Css",
+    tech_stack: ".Net, Objective C, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -43291,7 +43291,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Ar-Ge",
@@ -43305,7 +43305,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Tekstil",
@@ -43473,7 +43473,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, Python, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, Python, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -43515,7 +43515,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, MongoDB",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, MongoDB",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -43557,7 +43557,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -43585,7 +43585,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -43613,7 +43613,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -43683,7 +43683,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Mvc",
+    tech_stack: ".Net, JavaScript , Html , Css, Mvc",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -43697,7 +43697,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Go, JavaScript | Html | Css, React, Vue",
+    tech_stack: ".Net, Go, JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -43711,7 +43711,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -43725,7 +43725,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -43795,7 +43795,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Diğer",
@@ -43823,7 +43823,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Game Developer",
-    tech_stack: "C / C++, JavaScript | Html | Css, Unity",
+    tech_stack: "C / C++, JavaScript , Html , Css, Unity",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -43837,7 +43837,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, ",
+    tech_stack: ".Net, JavaScript , Html , Css, ",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -43907,7 +43907,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -43963,7 +43963,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -44019,7 +44019,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -44033,7 +44033,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Jquery, x++, tsql",
+    tech_stack: ".Net, JavaScript , Html , Css, Jquery, x++, tsql",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Tekstil",
@@ -44061,7 +44061,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -44089,7 +44089,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, ",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, ",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -44117,7 +44117,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -44131,7 +44131,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -44215,7 +44215,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -44271,7 +44271,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -44328,7 +44328,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Embedded Software Developer",
-    tech_stack: "Python, C / C++, JavaScript | Html | Css, Flutter",
+    tech_stack: "Python, C / C++, JavaScript , Html , Css, Flutter",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Diğer",
@@ -44496,7 +44496,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Oyun",
@@ -44553,7 +44553,7 @@ const DATA = [
     level: "Middle",
     position: "Full Stack Developer",
     tech_stack:
-      "Php, NodeJS, JavaScript | Html | Css, React, Angular, React Native",
+      "Php, NodeJS, JavaScript , Html , Css, React, Angular, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -44567,7 +44567,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -44651,7 +44651,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -44707,7 +44707,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -44735,7 +44735,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -44749,7 +44749,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -44763,7 +44763,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -44777,7 +44777,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular, Xamarin",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular, Xamarin",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -44805,7 +44805,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -44861,7 +44861,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Flutter, Unity, svelte",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Flutter, Unity, svelte",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -44875,7 +44875,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -44917,7 +44917,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React Native",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -45002,7 +45002,7 @@ const DATA = [
     level: "Middle",
     position: "IT",
     tech_stack:
-      "Java, Python, Kotlin, C / C++, JavaScript | Html | Css, Unity, Unreal",
+      "Java, Python, Kotlin, C / C++, JavaScript , Html , Css, Unity, Unreal",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Oyun",
@@ -45030,7 +45030,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -45044,7 +45044,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -45072,7 +45072,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -45086,7 +45086,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Go, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, Go, JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -45114,7 +45114,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -45128,7 +45128,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -45142,7 +45142,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -45198,7 +45198,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -45240,7 +45240,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Python, JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -45254,7 +45254,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -45310,7 +45310,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -45408,7 +45408,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -45422,7 +45422,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -45492,7 +45492,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -45506,7 +45506,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Sigortacılık",
@@ -45562,7 +45562,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -45590,7 +45590,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue, Flutter",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue, Flutter",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -45647,7 +45647,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, Php, Go, JavaScript | Html | Css, React, Vue, Angular, React Native",
+      ".Net, Php, Go, JavaScript , Html , Css, React, Vue, Angular, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -45801,7 +45801,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, Python, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, NodeJS, Python, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -45829,7 +45829,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -45857,7 +45857,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -45871,7 +45871,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -46039,7 +46039,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -46152,7 +46152,7 @@ const DATA = [
     level: "Senior",
     position: "DevOps Engineer",
     tech_stack:
-      "Java, .Net, NodeJS, Go, Python, Ruby, Kotlin, Swift, Objective C, C / C++, JavaScript | Html | Css, React, Angular, Flutter, React Native",
+      "Java, .Net, NodeJS, Go, Python, Ruby, Kotlin, Swift, Objective C, C / C++, JavaScript , Html , Css, React, Angular, Flutter, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -46180,7 +46180,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, NodeJS, Go, JavaScript | Html | Css, Angular, Rust",
+    tech_stack: "Java, NodeJS, Go, JavaScript , Html , Css, Angular, Rust",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -46292,7 +46292,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, JavaScript | Html | Css, Vue, Laravel, NuxtJs",
+    tech_stack: "Java, Php, JavaScript , Html , Css, Vue, Laravel, NuxtJs",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -46334,7 +46334,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -46348,7 +46348,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -46446,7 +46446,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -46488,7 +46488,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -46586,7 +46586,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -46628,7 +46628,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -46712,7 +46712,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -46838,7 +46838,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -46866,7 +46866,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -47006,7 +47006,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -47034,7 +47034,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue, Angular, Flutter",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue, Angular, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -47048,7 +47048,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -47104,7 +47104,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -47146,7 +47146,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, JavaScript | Html | Css, linux",
+    tech_stack: ".Net, Php, JavaScript , Html , Css, linux",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -47175,7 +47175,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      "Java, .Net, Php, NodeJS, Go, Python, Ruby, Kotlin, Swift, JavaScript | Html | Css, React",
+      "Java, .Net, Php, NodeJS, Go, Python, Ruby, Kotlin, Swift, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -47301,7 +47301,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -47315,7 +47315,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, Python, Objective C, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, Python, Objective C, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -47329,7 +47329,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -47343,7 +47343,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, C#",
+    tech_stack: ".Net, JavaScript , Html , Css, React, C#",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -47511,7 +47511,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Project Manager",
-    tech_stack: ".Net, NodeJS, Python, JavaScript | Html | Css, ASP",
+    tech_stack: ".Net, NodeJS, Python, JavaScript , Html , Css, ASP",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -47595,7 +47595,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -47638,7 +47638,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Php, NodeJS, Python, JavaScript | Html | Css, React, React Native",
+      "Php, NodeJS, Python, JavaScript , Html , Css, React, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -47793,7 +47793,7 @@ const DATA = [
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
     tech_stack:
-      ".Net, NodeJS, Python, Kotlin, Swift, JavaScript | Html | Css, React",
+      ".Net, NodeJS, Python, Kotlin, Swift, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -47849,7 +47849,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, Go, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, Go, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -47989,7 +47989,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue, Angular",
+    tech_stack: "JavaScript , Html , Css, Vue, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -48003,7 +48003,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -48031,7 +48031,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -48045,7 +48045,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, Jquery",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, Jquery",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -48073,7 +48073,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -48087,7 +48087,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -48101,7 +48101,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -48130,7 +48130,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      ".Net, NodeJS, JavaScript | Html | Css, React, Vue, Angular, React Native",
+      ".Net, NodeJS, JavaScript , Html , Css, React, Vue, Angular, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -48228,7 +48228,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue, React Native",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -48242,7 +48242,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Pl/Sql",
+    tech_stack: "Java, JavaScript , Html , Css, Pl/Sql",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -48284,7 +48284,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, NodeJS, Python, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, Python, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -48298,7 +48298,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, Php, Go, Python, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, Php, Go, Python, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -48312,7 +48312,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Php, Python, JavaScript | Html | Css",
+    tech_stack: "Php, Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -48326,7 +48326,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -48354,7 +48354,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -48396,7 +48396,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -48410,7 +48410,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kamu",
@@ -48424,7 +48424,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Go, JavaScript | Html | Css, React",
+    tech_stack: "Go, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -48494,7 +48494,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -48508,7 +48508,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -48564,7 +48564,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -48607,7 +48607,7 @@ const DATA = [
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
     tech_stack:
-      "NodeJS, JavaScript | Html | Css, React, React Native, Typescript",
+      "NodeJS, JavaScript , Html , Css, React, React Native, Typescript",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -48621,7 +48621,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -48705,7 +48705,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -48761,7 +48761,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -48887,7 +48887,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Android)",
-    tech_stack: "Java, Kotlin, JavaScript | Html | Css",
+    tech_stack: "Java, Kotlin, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -48943,7 +48943,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -48999,7 +48999,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -49041,7 +49041,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49083,7 +49083,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49153,7 +49153,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49251,7 +49251,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49265,7 +49265,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "kamu",
@@ -49307,7 +49307,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49335,7 +49335,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, Php, NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Java, Php, NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49349,7 +49349,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49377,7 +49377,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49391,7 +49391,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49447,7 +49447,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -49461,7 +49461,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -49475,7 +49475,7 @@ const DATA = [
   {
     level: "Senior",
     position: "SAP/ABAP",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, Abap",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, Abap",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49518,7 +49518,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, Python, JavaScript | Html | Css, React, React Native",
+      ".Net, NodeJS, Python, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49588,7 +49588,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -49617,7 +49617,7 @@ const DATA = [
     level: "Junior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, Php, Python, C / C++, JavaScript | Html | Css, React, Vfp",
+      ".Net, Php, Python, C / C++, JavaScript , Html , Css, React, Vfp",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49631,7 +49631,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49645,7 +49645,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -49673,7 +49673,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Python, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, Python, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -49687,7 +49687,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -49701,7 +49701,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Diğer",
@@ -49743,7 +49743,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49800,7 +49800,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      "Java, .Net, Python, JavaScript | Html | Css, React, React Native",
+      "Java, .Net, Python, JavaScript , Html , Css, React, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49857,7 +49857,7 @@ const DATA = [
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
     tech_stack:
-      "Java, .Net, Php, NodeJS, Python, C / C++, JavaScript | Html | Css",
+      "Java, .Net, Php, NodeJS, Python, C / C++, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -49899,7 +49899,7 @@ const DATA = [
   {
     level: "Senior",
     position: "IT Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, Troia",
+    tech_stack: ".Net, JavaScript , Html , Css, Troia",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -49913,7 +49913,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -50025,7 +50025,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -50081,7 +50081,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Team / Tech Lead",
-    tech_stack: "Php, NodeJS, Go, Python, JavaScript | Html | Css, React",
+    tech_stack: "Php, NodeJS, Go, Python, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -50137,7 +50137,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Php, NodeJS, Python, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Php, NodeJS, Python, JavaScript , Html , Css, React, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -50151,7 +50151,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, ",
+    tech_stack: "JavaScript , Html , Css, React, ",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -50165,7 +50165,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -50263,7 +50263,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -50291,7 +50291,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -50403,7 +50403,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -50459,7 +50459,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -50515,7 +50515,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -50585,7 +50585,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -50641,7 +50641,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, React",
+    tech_stack: "Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -50683,7 +50683,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -50711,7 +50711,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, Typescript ",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, Typescript ",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -50893,7 +50893,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -50907,7 +50907,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, .Net, Python, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, Python, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -50921,7 +50921,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -50935,7 +50935,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -50977,7 +50977,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Product Owner",
-    tech_stack: "C / C++, JavaScript | Html | Css",
+    tech_stack: "C / C++, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -51019,7 +51019,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -51061,7 +51061,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, Python, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, NodeJS, Python, JavaScript , Html , Css, React, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -51215,7 +51215,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -51229,7 +51229,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -51258,7 +51258,7 @@ const DATA = [
     level: "Senior",
     position: "Software Architect",
     tech_stack:
-      "Java, .Net, Swift, Objective C, JavaScript | Html | Css, Vue, Flutter",
+      "Java, .Net, Swift, Objective C, JavaScript , Html , Css, Vue, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -51300,7 +51300,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, Vue",
+    tech_stack: "Python, JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -51342,7 +51342,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -51426,7 +51426,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Java, NodeJS, Ruby, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, Ruby, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Diğer",
@@ -51441,7 +51441,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      "NodeJS, JavaScript | Html | Css, React, Vue, Angular, Flutter, React Native",
+      "NodeJS, JavaScript , Html , Css, React, Vue, Angular, Flutter, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -51511,7 +51511,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, Python, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, Python, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -51525,7 +51525,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -51581,7 +51581,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Ruby, JavaScript | Html | Css",
+    tech_stack: "Ruby, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -51609,7 +51609,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -51651,7 +51651,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -51693,7 +51693,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -51764,7 +51764,7 @@ const DATA = [
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
     tech_stack:
-      ".Net, NodeJS, JavaScript | Html | Css, React, React Native, Unity",
+      ".Net, NodeJS, JavaScript , Html , Css, React, React Native, Unity",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Endüstriyel",
@@ -51848,7 +51848,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -51876,7 +51876,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -51890,7 +51890,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, IBM BPM, IBM FileNet",
+    tech_stack: "Java, JavaScript , Html , Css, React, IBM BPM, IBM FileNet",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -51946,7 +51946,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Flutter, Unreal, MSSQL",
+    tech_stack: ".Net, JavaScript , Html , Css, Flutter, Unreal, MSSQL",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -52058,7 +52058,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -52100,7 +52100,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Android)",
-    tech_stack: "Java, Kotlin, JavaScript | Html | Css",
+    tech_stack: "Java, Kotlin, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -52128,7 +52128,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -52142,7 +52142,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -52156,7 +52156,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -52184,7 +52184,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -52198,7 +52198,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React, Ember",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React, Ember",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -52226,7 +52226,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -52282,7 +52282,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Vue, Angular, C#",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Vue, Angular, C#",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -52338,7 +52338,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -52352,7 +52352,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -52436,7 +52436,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -52450,7 +52450,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Fintech",
@@ -52478,7 +52478,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -52507,7 +52507,7 @@ const DATA = [
     level: "Middle",
     position: "Full Stack Developer",
     tech_stack:
-      "NodeJS, Go, Python, C / C++, JavaScript | Html | Css, React, Angular",
+      "NodeJS, Go, Python, C / C++, JavaScript , Html , Css, React, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -52535,7 +52535,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue, ",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue, ",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -52591,7 +52591,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -52661,7 +52661,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -52801,7 +52801,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -52829,7 +52829,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -52913,7 +52913,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Vue, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -52983,7 +52983,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -52997,7 +52997,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React Native",
+    tech_stack: "JavaScript , Html , Css, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -53053,7 +53053,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css, React",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Diğer",
@@ -53067,7 +53067,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, C#",
+    tech_stack: ".Net, JavaScript , Html , Css, C#",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -53151,7 +53151,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -53221,7 +53221,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -53235,7 +53235,7 @@ const DATA = [
   {
     level: "Senior",
     position: "DevOps Engineer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -53249,7 +53249,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, NodeJS, Python, JavaScript | Html | Css",
+    tech_stack: "Java, Php, NodeJS, Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -53347,7 +53347,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Finans",
@@ -53361,7 +53361,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -53403,7 +53403,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -53431,7 +53431,7 @@ const DATA = [
   {
     level: "Senior",
     position: "QA / Automation",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -53473,7 +53473,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Director of Software Development",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -53515,7 +53515,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -53613,7 +53613,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -53669,7 +53669,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Php, NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "Php, NodeJS, Python, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -53725,7 +53725,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -53754,7 +53754,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      "Php, NodeJS, Go, JavaScript | Html | Css, React, Vue, React Native",
+      "Php, NodeJS, Go, JavaScript , Html , Css, React, Vue, React Native",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -53782,7 +53782,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Php, NodeJS, Go, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Php, NodeJS, Go, JavaScript , Html , Css, React, React Native",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -53796,7 +53796,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -53894,7 +53894,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -53908,7 +53908,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Flutter",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -53992,7 +53992,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Director of Software Development",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -54006,7 +54006,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Manuel Test",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -54104,7 +54104,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -54146,7 +54146,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -54174,7 +54174,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Go, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, Go, JavaScript , Html , Css, React, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -54202,7 +54202,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -54230,7 +54230,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Hava Yolları",
@@ -54244,7 +54244,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Vue, Angular",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Vue, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -54258,7 +54258,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -54328,7 +54328,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, NodeJS, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: ".Net, Php, NodeJS, JavaScript , Html , Css, Vue, Flutter",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -54342,7 +54342,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -54356,7 +54356,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -54440,7 +54440,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -54468,7 +54468,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -54510,7 +54510,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -54580,7 +54580,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -54594,7 +54594,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -54622,7 +54622,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -54636,7 +54636,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -54650,7 +54650,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: ".Net, JavaScript | Html | Css, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Fintech",
@@ -54706,7 +54706,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Laravel ",
+    tech_stack: "JavaScript , Html , Css, Laravel ",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -54720,7 +54720,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Project Manager",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Kadın",
     company: "Kurumsal",
@@ -54734,7 +54734,7 @@ const DATA = [
   {
     level: "Junior",
     position: "DevOps Engineer",
-    tech_stack: ".Net, JavaScript | Html | Css, Tfs,elasticsearch,IIS",
+    tech_stack: ".Net, JavaScript , Html , Css, Tfs,elasticsearch,IIS",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -54748,7 +54748,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -54762,7 +54762,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, Objective C, C / C++, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, Objective C, C / C++, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -54777,7 +54777,7 @@ const DATA = [
     level: "Senior",
     position: "Back-end Developer",
     tech_stack:
-      "Java, Python, Kotlin, Swift, Objective C, C / C++, JavaScript | Html | Css",
+      "Java, Python, Kotlin, Swift, Objective C, C / C++, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -54861,7 +54861,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -54903,7 +54903,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -54931,7 +54931,7 @@ const DATA = [
   {
     level: "Middle",
     position: "RPA Developer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -55001,7 +55001,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -55029,7 +55029,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -55099,7 +55099,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -55155,7 +55155,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue, Angular, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue, Angular, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -55295,7 +55295,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Manuel Test",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -55309,7 +55309,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Unity",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Unity",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -55351,7 +55351,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, Php, JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -55407,7 +55407,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -55491,7 +55491,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -55519,7 +55519,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Go, JavaScript | Html | Css, Vue",
+    tech_stack: "Go, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -55575,7 +55575,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, ",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, ",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -55589,7 +55589,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -55631,7 +55631,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -55645,7 +55645,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kripto",
@@ -55701,7 +55701,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Go, Python, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, Go, Python, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -55743,7 +55743,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -55771,7 +55771,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -55785,7 +55785,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -55841,7 +55841,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -55855,7 +55855,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -55925,7 +55925,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Ruby, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Ruby, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -55939,7 +55939,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -55967,7 +55967,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, jquery :(",
+    tech_stack: ".Net, JavaScript , Html , Css, React, jquery :(",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -55995,7 +55995,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -56009,7 +56009,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -56051,7 +56051,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -56093,7 +56093,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, Kotlin, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, .Net, Kotlin, JavaScript , Html , Css, React, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -56163,7 +56163,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Freelancer",
@@ -56191,7 +56191,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Nextjs",
+    tech_stack: "JavaScript , Html , Css, React, Nextjs",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -56275,7 +56275,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -56359,7 +56359,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -56373,7 +56373,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -56387,7 +56387,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -56443,7 +56443,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -56457,7 +56457,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -56527,7 +56527,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Go, JavaScript | Html | Css, React",
+    tech_stack: "Go, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -56584,7 +56584,7 @@ const DATA = [
     level: "Senior",
     position: "Mobile Application Developer (Full Stack)",
     tech_stack:
-      "Java, NodeJS, Kotlin, Swift, JavaScript | Html | Css, React Native",
+      "Java, NodeJS, Kotlin, Swift, JavaScript , Html , Css, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -56598,7 +56598,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -56654,7 +56654,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -56696,7 +56696,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -56710,7 +56710,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -56724,7 +56724,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -56766,7 +56766,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -56780,7 +56780,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "NodeJS, Go, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "NodeJS, Go, JavaScript , Html , Css, React, Vue, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -56822,7 +56822,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -56837,7 +56837,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, Python, Kotlin, C / C++, JavaScript | Html | Css, React, Angular, Flutter, React Native",
+      ".Net, NodeJS, Python, Kotlin, C / C++, JavaScript , Html , Css, React, Angular, Flutter, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -56907,7 +56907,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -57006,7 +57006,7 @@ const DATA = [
     level: "Middle",
     position: "QA / Automation",
     tech_stack:
-      "Java, .Net, NodeJS, Python, JavaScript | Html | Css, Vue, PowerShell ",
+      "Java, .Net, NodeJS, Python, JavaScript , Html , Css, Vue, PowerShell ",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -57034,7 +57034,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Business analyst ",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -57062,7 +57062,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -57104,7 +57104,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -57217,7 +57217,7 @@ const DATA = [
     level: "Senior",
     position: "Back-end Developer",
     tech_stack:
-      ".Net, NodeJS, JavaScript | Html | Css, React, Angular, React Native",
+      ".Net, NodeJS, JavaScript , Html , Css, React, Angular, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -57231,7 +57231,7 @@ const DATA = [
   {
     level: "Middle",
     position: "DevOps Engineer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -57245,7 +57245,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, Go, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, Go, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -57301,7 +57301,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -57329,7 +57329,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -57413,7 +57413,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -57427,7 +57427,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Java, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -57469,7 +57469,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -57483,7 +57483,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -57665,7 +57665,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue, React Native",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -57749,7 +57749,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, Go, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, Go, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -57875,7 +57875,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -57945,7 +57945,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -57959,7 +57959,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -58029,7 +58029,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -58057,7 +58057,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -58071,7 +58071,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, graphql",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, graphql",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -58113,7 +58113,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -58197,7 +58197,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -58225,7 +58225,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -58309,7 +58309,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Vue, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Vue, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -58351,7 +58351,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue, Angular",
+    tech_stack: "JavaScript , Html , Css, Vue, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -58407,7 +58407,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -58603,7 +58603,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -58617,7 +58617,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Dijital / Reklam Ajansı",
@@ -58632,7 +58632,7 @@ const DATA = [
     level: "Junior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, JavaScript | Html | Css, React, Angular, Flutter, React Native",
+      ".Net, JavaScript , Html , Css, React, Angular, Flutter, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -58660,7 +58660,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -58758,7 +58758,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -58870,7 +58870,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Go, Kotlin, Swift, JavaScript | Html | Css, React Native",
+    tech_stack: "Go, Kotlin, Swift, JavaScript , Html , Css, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -58926,7 +58926,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -58940,7 +58940,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -58954,7 +58954,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -58968,7 +58968,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -58996,7 +58996,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -59052,7 +59052,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -59066,7 +59066,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -59094,7 +59094,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -59108,7 +59108,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -59319,7 +59319,7 @@ const DATA = [
     level: "Senior",
     position: "Front-end Developer",
     tech_stack:
-      "JavaScript | Html | Css, React, Vue, Angular, Flutter, React Native",
+      "JavaScript , Html , Css, React, Vue, Angular, Flutter, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -59417,7 +59417,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Python, JavaScript | Html | Css, React",
+    tech_stack: "Python, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -59473,7 +59473,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -59557,7 +59557,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -59585,7 +59585,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Product Manager",
-    tech_stack: "JavaScript | Html | Css, React, Flutter",
+    tech_stack: "JavaScript , Html , Css, React, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -59655,7 +59655,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -59683,7 +59683,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -59697,7 +59697,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -59823,7 +59823,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -59879,7 +59879,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -59908,7 +59908,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      ".Net, NodeJS, Python, JavaScript | Html | Css, React, React Native, Unreal",
+      ".Net, NodeJS, Python, JavaScript , Html , Css, React, React Native, Unreal",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -59922,7 +59922,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -60007,7 +60007,7 @@ const DATA = [
     level: "Senior",
     position: "Project Manager",
     tech_stack:
-      ".Net, Php, NodeJS, Objective C, C / C++, JavaScript | Html | Css, React, Angular, React Native",
+      ".Net, Php, NodeJS, Objective C, C / C++, JavaScript , Html , Css, React, Angular, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -60049,7 +60049,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Embedded Software Developer",
-    tech_stack: "Python, C / C++, JavaScript | Html | Css",
+    tech_stack: "Python, C / C++, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -60077,7 +60077,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -60091,7 +60091,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, NodeJS, Go, Kotlin, JavaScript | Html | Css",
+    tech_stack: "Java, NodeJS, Go, Kotlin, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -60120,7 +60120,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      "Java, Php, NodeJS, Swift, Objective C, JavaScript | Html | Css, React, Angular",
+      "Java, Php, NodeJS, Swift, Objective C, JavaScript , Html , Css, React, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -60134,7 +60134,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -60148,7 +60148,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -60260,7 +60260,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, SAPUI5",
+    tech_stack: "JavaScript , Html , Css, SAPUI5",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -60372,7 +60372,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -60400,7 +60400,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -60512,7 +60512,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -60526,7 +60526,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -60596,7 +60596,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -60624,7 +60624,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -60736,7 +60736,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -60750,7 +60750,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -60778,7 +60778,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -60792,7 +60792,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -60862,7 +60862,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -60877,7 +60877,7 @@ const DATA = [
     level: "Senior",
     position: "CTO",
     tech_stack:
-      "Java, .Net, Php, NodeJS, Go, Python, JavaScript | Html | Css, Vue, Flutter, Unity",
+      "Java, .Net, Php, NodeJS, Go, Python, JavaScript , Html , Css, Vue, Flutter, Unity",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -60919,7 +60919,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -60933,7 +60933,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Python, Kotlin, JavaScript | Html | Css, React",
+    tech_stack: "Python, Kotlin, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -61017,7 +61017,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -61059,7 +61059,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -61087,7 +61087,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -61171,7 +61171,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -61199,7 +61199,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular, Flutter",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -61423,7 +61423,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -61437,7 +61437,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Project Manager",
-    tech_stack: "Java, Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, Php, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -61465,7 +61465,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -61535,7 +61535,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Go, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: "Go, JavaScript , Html , Css, Vue, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -61563,7 +61563,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kamu",
@@ -61857,7 +61857,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, AWS",
+    tech_stack: ".Net, JavaScript , Html , Css, React, AWS",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -61871,7 +61871,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -62012,7 +62012,7 @@ const DATA = [
     level: "Middle",
     position: "Project Manager",
     tech_stack:
-      ".Net, Php, NodeJS, Python, JavaScript | Html | Css, React, React Native",
+      ".Net, Php, NodeJS, Python, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Dijital / Reklam Ajansı",
@@ -62040,7 +62040,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -62054,7 +62054,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Angular, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Angular, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -62096,7 +62096,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -62124,7 +62124,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -62138,7 +62138,7 @@ const DATA = [
   {
     level: "Senior",
     position: "QA / Automation",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -62152,7 +62152,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Dönüşüm",
@@ -62250,7 +62250,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -62306,7 +62306,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -62320,7 +62320,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -62376,7 +62376,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -62432,7 +62432,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -62474,7 +62474,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Game Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -62530,7 +62530,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -62642,7 +62642,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -62726,7 +62726,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -62810,7 +62810,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Medya",
@@ -62825,7 +62825,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      ".Net, Php, NodeJS, Python, Swift, JavaScript | Html | Css, Vue, Angular, React Native",
+      ".Net, Php, NodeJS, Python, Swift, JavaScript , Html , Css, Vue, Angular, React Native",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -62909,7 +62909,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -62965,7 +62965,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -62979,7 +62979,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -62993,7 +62993,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63064,7 +63064,7 @@ const DATA = [
     level: "Junior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, JavaScript | Html | Css, .Net Core MVC, WCF, WPF, Git, TFS, Jenkins, IIS, ",
+      ".Net, JavaScript , Html , Css, .Net Core MVC, WCF, WPF, Git, TFS, Jenkins, IIS, ",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63092,7 +63092,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -63134,7 +63134,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63204,7 +63204,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, NodeJS, Python, JavaScript | Html | Css",
+    tech_stack: "Java, NodeJS, Python, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -63219,7 +63219,7 @@ const DATA = [
     level: "Senior",
     position: "Product Owner",
     tech_stack:
-      "Java, .Net, C / C++, JavaScript | Html | Css, Angular, React Native, Unity",
+      "Java, .Net, C / C++, JavaScript , Html , Css, Angular, React Native, Unity",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63233,7 +63233,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Database Administrator (DBA)",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63247,7 +63247,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, ",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, ",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -63290,7 +63290,7 @@ const DATA = [
     level: "Senior",
     position: "Cyber Security ",
     tech_stack:
-      "Java, .Net, Php, NodeJS, Go, Python, Kotlin, Swift, Objective C, C / C++, JavaScript | Html | Css, React, Angular, Flutter, React Native",
+      "Java, .Net, Php, NodeJS, Go, Python, Kotlin, Swift, Objective C, C / C++, JavaScript , Html , Css, React, Angular, Flutter, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -63304,7 +63304,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -63388,7 +63388,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63402,7 +63402,7 @@ const DATA = [
   {
     level: "Senior",
     position: "DevOps Engineer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -63416,7 +63416,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Mithril",
+    tech_stack: "Php, JavaScript , Html , Css, React, Mithril",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -63430,7 +63430,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Flutter",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63458,7 +63458,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63486,7 +63486,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, Php, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, Php, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63514,7 +63514,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -63556,7 +63556,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React Native",
+    tech_stack: "JavaScript , Html , Css, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -63584,7 +63584,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -63612,7 +63612,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Automation",
-    tech_stack: "Java, Kotlin, JavaScript | Html | Css",
+    tech_stack: "Java, Kotlin, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -63626,7 +63626,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63724,7 +63724,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63738,7 +63738,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Manuel Test",
-    tech_stack: "Java, JavaScript | Html | Css, Flutter, React Native",
+    tech_stack: "Java, JavaScript , Html , Css, Flutter, React Native",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -63752,7 +63752,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63780,7 +63780,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -63808,7 +63808,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -63822,7 +63822,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -63850,7 +63850,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -63864,7 +63864,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Automation",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63920,7 +63920,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -63934,7 +63934,7 @@ const DATA = [
   {
     level: "Junior",
     position: "QA / Automation",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -64004,7 +64004,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -64018,7 +64018,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -64032,7 +64032,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React Native",
+    tech_stack: "JavaScript , Html , Css, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -64060,7 +64060,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -64116,7 +64116,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -64158,7 +64158,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -64270,7 +64270,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -64326,7 +64326,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -64354,7 +64354,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -64396,7 +64396,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Diğer",
@@ -64424,7 +64424,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -64494,7 +64494,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "JavaScript , Html , Css, React, Vue, React Native",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -64550,7 +64550,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, Flutter",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -64690,7 +64690,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -64816,7 +64816,7 @@ const DATA = [
   {
     level: "Middle",
     position: "SRE",
-    tech_stack: "Python, JavaScript | Html | Css, Vue, Zabbix, Grafana",
+    tech_stack: "Python, JavaScript , Html , Css, Vue, Zabbix, Grafana",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -64845,7 +64845,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -64859,7 +64859,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -64873,7 +64873,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -64915,7 +64915,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Platform Engineer",
-    tech_stack: "Go, JavaScript | Html | Css",
+    tech_stack: "Go, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -64929,7 +64929,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -64985,7 +64985,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -64999,7 +64999,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, SAP Fiori",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, SAP Fiori",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -65013,7 +65013,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -65069,7 +65069,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -65083,7 +65083,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -65097,7 +65097,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React Native",
+    tech_stack: "JavaScript , Html , Css, React Native",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -65139,7 +65139,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Php, NodeJS, Python, Kotlin, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, NodeJS, Python, Kotlin, JavaScript , Html , Css, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -65154,7 +65154,7 @@ const DATA = [
     level: "Senior",
     position: "Back-end Developer",
     tech_stack:
-      ".Net, NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+      ".Net, NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -65168,7 +65168,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -65392,7 +65392,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -65518,7 +65518,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -65630,7 +65630,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, C / C++, JavaScript | Html | Css, React, Vue, Flutter",
+    tech_stack: "NodeJS, C / C++, JavaScript , Html , Css, React, Vue, Flutter",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -65658,7 +65658,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "Php, NodeJS, Python, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, NodeJS, Python, JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -65672,7 +65672,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -65714,7 +65714,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -65728,7 +65728,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, Php, JavaScript | Html | Css, Vue, Angular",
+    tech_stack: "Java, Php, JavaScript , Html , Css, Vue, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -65756,7 +65756,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -65770,7 +65770,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -65826,7 +65826,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Database Administrator (DBA)",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -65924,7 +65924,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -65980,7 +65980,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React Native",
+    tech_stack: "JavaScript , Html , Css, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -66008,7 +66008,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, Python, JavaScript | Html | Css, React, AWS",
+    tech_stack: "Java, NodeJS, Python, JavaScript , Html , Css, React, AWS",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -66036,7 +66036,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -66064,7 +66064,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, Php, NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -66106,7 +66106,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: ".Net, Php, JavaScript | Html | Css",
+    tech_stack: ".Net, Php, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -66120,7 +66120,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -66176,7 +66176,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -66246,7 +66246,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -66274,7 +66274,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -66288,7 +66288,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -66330,7 +66330,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -66344,7 +66344,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -66386,7 +66386,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -66456,7 +66456,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -66471,7 +66471,7 @@ const DATA = [
     level: "Senior",
     position: "CTO",
     tech_stack:
-      "Java, NodeJS, Python, JavaScript | Html | Css, React, Vue, Angular, React Native",
+      "Java, NodeJS, Python, JavaScript , Html , Css, React, Vue, Angular, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -66527,7 +66527,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -66541,7 +66541,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, Angular",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -66569,7 +66569,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, Vue, WordPress",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, Vue, WordPress",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -66583,7 +66583,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -66597,7 +66597,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Php, Python, JavaScript | Html | Css",
+    tech_stack: "Php, Python, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -66611,7 +66611,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -66625,7 +66625,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -66653,7 +66653,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React",
+    tech_stack: "Php, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -66779,7 +66779,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -66877,7 +66877,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -66989,7 +66989,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -67045,7 +67045,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -67129,7 +67129,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -67143,7 +67143,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -67199,7 +67199,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -67255,7 +67255,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -67437,7 +67437,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -67451,7 +67451,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -67493,7 +67493,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -67605,7 +67605,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -67619,7 +67619,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -67647,7 +67647,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -67661,7 +67661,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -67675,7 +67675,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Unity, Unreal",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Unity, Unreal",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -67759,7 +67759,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -67787,7 +67787,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Business Analyst",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -67801,7 +67801,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Director of Software Development",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css, Unity",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css, Unity",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -67857,7 +67857,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -67899,7 +67899,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -67913,7 +67913,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Data Analyst",
-    tech_stack: "NodeJS, Python, Ruby, JavaScript | Html | Css",
+    tech_stack: "NodeJS, Python, Ruby, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -67997,7 +67997,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kamu",
@@ -68011,7 +68011,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -68026,7 +68026,7 @@ const DATA = [
     level: "Senior",
     position: "Front-end Developer",
     tech_stack:
-      "Objective C, JavaScript | Html | Css, React, Angular, React Native",
+      "Objective C, JavaScript , Html , Css, React, Angular, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -68069,7 +68069,7 @@ const DATA = [
     level: "Senior",
     position: "Product Manager",
     tech_stack:
-      "Java, .Net, Php, NodeJS, Kotlin, Swift, JavaScript | Html | Css, Vue, Flutter, React Native",
+      "Java, .Net, Php, NodeJS, Kotlin, Swift, JavaScript , Html , Css, Vue, Flutter, React Native",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -68083,7 +68083,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -68111,7 +68111,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -68139,7 +68139,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -68181,7 +68181,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Go, JavaScript | Html | Css, React",
+    tech_stack: "Go, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -68265,7 +68265,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Embedded Software Developer",
-    tech_stack: "Python, C / C++, JavaScript | Html | Css, Qt",
+    tech_stack: "Python, C / C++, JavaScript , Html , Css, Qt",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -68279,7 +68279,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -68363,7 +68363,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "Java, Php, Ruby, JavaScript | Html | Css",
+    tech_stack: "Java, Php, Ruby, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -68419,7 +68419,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -68447,7 +68447,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -68461,7 +68461,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -68531,7 +68531,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Data Scientist",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -68573,7 +68573,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, Python, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, Python, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -68587,7 +68587,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -68643,7 +68643,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -68671,7 +68671,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Endüstriyel",
@@ -68685,7 +68685,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, Python, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -68727,7 +68727,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -68783,7 +68783,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, NodeJS, Python, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, NodeJS, Python, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -68797,7 +68797,7 @@ const DATA = [
   {
     level: "Senior",
     position: "QA / Manuel Test",
-    tech_stack: "JavaScript | Html | Css, Cypress ",
+    tech_stack: "JavaScript , Html , Css, Cypress ",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -68937,7 +68937,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -68951,7 +68951,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Fabrika ",
@@ -68979,7 +68979,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, ABAP",
+    tech_stack: "JavaScript , Html , Css, ABAP",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -69021,7 +69021,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Jquery",
+    tech_stack: "Java, JavaScript , Html , Css, Jquery",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -69035,7 +69035,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -69049,7 +69049,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "JavaScript | Html | Css, Camunda",
+    tech_stack: "JavaScript , Html , Css, Camunda",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -69078,7 +69078,7 @@ const DATA = [
     level: "Middle",
     position: "Business Analyst",
     tech_stack:
-      "Java, .Net, NodeJS, JavaScript | Html | Css, React, Angular, React Native, Unity",
+      "Java, .Net, NodeJS, JavaScript , Html , Css, React, Angular, React Native, Unity",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kamu",
@@ -69162,7 +69162,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -69177,7 +69177,7 @@ const DATA = [
     level: "Middle",
     position: "Software Development Manager / Engineering Manager",
     tech_stack:
-      "NodeJS, Swift, JavaScript | Html | Css, React, Vue, Angular, React Native",
+      "NodeJS, Swift, JavaScript , Html , Css, React, Vue, Angular, React Native",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -69205,7 +69205,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -69219,7 +69219,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -69275,7 +69275,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -69331,7 +69331,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Python, C / C++, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: "Python, C / C++, JavaScript , Html , Css, Vue, Flutter",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -69359,7 +69359,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -69373,7 +69373,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -69401,7 +69401,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -69416,7 +69416,7 @@ const DATA = [
     level: "Senior",
     position: "Back-end Developer",
     tech_stack:
-      ".Net, Php, NodeJS, Go, Python, C / C++, JavaScript | Html | Css, React, React Native",
+      ".Net, Php, NodeJS, Go, Python, C / C++, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -69444,7 +69444,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -69500,7 +69500,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Python, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Python, JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -69584,7 +69584,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -69612,7 +69612,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -69655,7 +69655,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Php, NodeJS, Objective C, JavaScript | Html | Css, React, React Native",
+      "Php, NodeJS, Objective C, JavaScript , Html , Css, React, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Outsource",
@@ -69809,7 +69809,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -69823,7 +69823,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Java, Php, NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -69837,7 +69837,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -69851,7 +69851,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -69935,7 +69935,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -69991,7 +69991,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -70019,7 +70019,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Python, JavaScript | Html | Css, React",
+    tech_stack: "Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -70047,7 +70047,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native, nextjs",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native, nextjs",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -70075,7 +70075,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -70103,7 +70103,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -70131,7 +70131,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -70187,7 +70187,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -70201,7 +70201,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -70439,7 +70439,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -70453,7 +70453,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -70482,7 +70482,7 @@ const DATA = [
     level: "Middle",
     position: "Front-end Developer",
     tech_stack:
-      "NodeJS, Go, JavaScript | Html | Css, React, TypeScript, Next.js",
+      "NodeJS, Go, JavaScript , Html , Css, React, TypeScript, Next.js",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -70538,7 +70538,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -70580,7 +70580,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -70636,7 +70636,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "C / C++, JavaScript | Html | Css, Mssql",
+    tech_stack: "C / C++, JavaScript , Html , Css, Mssql",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -70706,7 +70706,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -70762,7 +70762,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -70776,7 +70776,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -70804,7 +70804,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -70888,7 +70888,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -70986,7 +70986,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -71000,7 +71000,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -71056,7 +71056,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -71098,7 +71098,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -71126,7 +71126,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -71210,7 +71210,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -71238,7 +71238,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Arcobjects",
+    tech_stack: ".Net, JavaScript , Html , Css, Arcobjects",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -71322,7 +71322,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Flutter",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -71336,7 +71336,7 @@ const DATA = [
   {
     level: "Senior",
     position: "QA / Automation",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -71406,7 +71406,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, Php, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, Php, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -71420,7 +71420,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -71435,7 +71435,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      "Java, .Net, Objective C, C / C++, JavaScript | Html | Css, React",
+      "Java, .Net, Objective C, C / C++, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -71491,7 +71491,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, JavaScript | Html | Css, Angular, Flutter",
+    tech_stack: "Java, JavaScript , Html , Css, Angular, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -71505,7 +71505,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, React",
+    tech_stack: "Python, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -71519,7 +71519,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -71617,7 +71617,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, Php, NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -71631,7 +71631,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue, Angular",
+    tech_stack: "JavaScript , Html , Css, Vue, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -71729,7 +71729,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -71743,7 +71743,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -71757,7 +71757,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -71813,7 +71813,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -71883,7 +71883,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React Native",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -71940,7 +71940,7 @@ const DATA = [
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
     tech_stack:
-      ".Net, Python, C / C++, JavaScript | Html | Css, Angular, Flutter",
+      ".Net, Python, C / C++, JavaScript , Html , Css, Angular, Flutter",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -71968,7 +71968,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Ruby, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, Ruby, JavaScript , Html , Css, React, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -72010,7 +72010,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Automation",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -72039,7 +72039,7 @@ const DATA = [
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
     tech_stack:
-      "NodeJS, Python, C / C++, JavaScript | Html | Css, React, Unreal",
+      "NodeJS, Python, C / C++, JavaScript , Html , Css, React, Unreal",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -72081,7 +72081,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -72137,7 +72137,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -72179,7 +72179,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -72235,7 +72235,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React, SQL",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React, SQL",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -72333,7 +72333,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -72347,7 +72347,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -72445,7 +72445,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -72459,7 +72459,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -72473,7 +72473,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, SFCC B2C",
+    tech_stack: "NodeJS, JavaScript , Html , Css, SFCC B2C",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -72501,7 +72501,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -72529,7 +72529,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, Python, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, NodeJS, Python, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -72543,7 +72543,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -72571,7 +72571,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "Php, NodeJS, Python, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -72641,7 +72641,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -72669,7 +72669,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -72725,7 +72725,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Python, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -72739,7 +72739,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Flutter",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -72809,7 +72809,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -72823,7 +72823,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -72893,7 +72893,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -72921,7 +72921,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Objective C, JavaScript | Html | Css",
+    tech_stack: "Java, Objective C, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -72964,7 +72964,7 @@ const DATA = [
     level: "Senior",
     position: "Solution Architect",
     tech_stack:
-      "Java, .Net, Php, NodeJS, Go, Kotlin, JavaScript | Html | Css, React, Vue, Angular, Flutter, React Native, Unity",
+      "Java, .Net, Php, NodeJS, Go, Kotlin, JavaScript , Html , Css, React, Vue, Angular, Flutter, React Native, Unity",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -72978,7 +72978,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Xamarin",
+    tech_stack: ".Net, JavaScript , Html , Css, Xamarin",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -73020,7 +73020,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Business Analyst",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -73048,7 +73048,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -73105,7 +73105,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Php, NodeJS, JavaScript | Html | Css, React, Vue, Angular, Flutter, React Native",
+      "Php, NodeJS, JavaScript , Html , Css, React, Vue, Angular, Flutter, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -73133,7 +73133,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -73161,7 +73161,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -73203,7 +73203,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -73231,7 +73231,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -73259,7 +73259,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -73315,7 +73315,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -73343,7 +73343,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Flutter, X++",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Flutter, X++",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -73357,7 +73357,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -73399,7 +73399,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Savunma",
@@ -73441,7 +73441,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Bahis & Şans Oyunları",
@@ -73483,7 +73483,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Delphi ",
+    tech_stack: "Php, JavaScript , Html , Css, Delphi ",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -73511,7 +73511,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, Angular",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Telekonumikasyon",
@@ -73525,7 +73525,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, c#",
+    tech_stack: ".Net, JavaScript , Html , Css, c#",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Diğer",
@@ -73595,7 +73595,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -73623,7 +73623,7 @@ const DATA = [
   {
     level: "Junior",
     position: "QA / Manuel Test",
-    tech_stack: "Java, C / C++, JavaScript | Html | Css",
+    tech_stack: "Java, C / C++, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -73651,7 +73651,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -73693,7 +73693,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Game Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Unity",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Unity",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Oyun",
@@ -73707,7 +73707,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -73721,7 +73721,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -73945,7 +73945,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -73959,7 +73959,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -74001,7 +74001,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -74071,7 +74071,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, sql",
+    tech_stack: ".Net, JavaScript , Html , Css, sql",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -74141,7 +74141,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "12 - 14 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -74267,7 +74267,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "Python, JavaScript | Html | Css, ",
+    tech_stack: "Python, JavaScript , Html , Css, ",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -74281,7 +74281,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -74295,7 +74295,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -74379,7 +74379,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -74421,7 +74421,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -74463,7 +74463,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -74547,7 +74547,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Endüstriyel",
@@ -74603,7 +74603,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Blockchain Developer ",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Solidity",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Solidity",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -74743,7 +74743,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "12 - 14 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -74841,7 +74841,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -74855,7 +74855,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Business Analyst",
-    tech_stack: "JavaScript | Html | Css, Jira,miro,confluence",
+    tech_stack: "JavaScript , Html , Css, Jira,miro,confluence",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -74911,7 +74911,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -74939,7 +74939,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Jquey",
+    tech_stack: "Java, JavaScript , Html , Css, Jquey",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -75051,7 +75051,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Banka",
@@ -75065,7 +75065,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -75205,7 +75205,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, JavaScript | Html | Css, SAP, ABAP",
+    tech_stack: "NodeJS, JavaScript , Html , Css, SAP, ABAP",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -75233,7 +75233,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -75387,7 +75387,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -75513,7 +75513,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, React Native",
+    tech_stack: "JavaScript , Html , Css, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -75597,7 +75597,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Flutter",
+    tech_stack: "JavaScript , Html , Css, React, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -75625,7 +75625,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -75695,7 +75695,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, Php, JavaScript | Html | Css",
+    tech_stack: "Java, Php, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Güvenlik",
@@ -75723,7 +75723,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -75751,7 +75751,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -75765,7 +75765,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, C / C++, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, C / C++, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Elektronik",
@@ -75807,7 +75807,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React",
+    tech_stack: "Php, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -75821,7 +75821,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Svelte",
+    tech_stack: "JavaScript , Html , Css, Svelte",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -75919,7 +75919,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -75947,7 +75947,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -75989,7 +75989,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, Python, Kotlin, JavaScript | Html | Css, React",
+    tech_stack: "Java, Php, Python, Kotlin, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -76059,7 +76059,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -76101,7 +76101,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -76213,7 +76213,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -76241,7 +76241,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -76255,7 +76255,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Product Manager",
-    tech_stack: "NodeJS, Kotlin, Swift, JavaScript | Html | Css",
+    tech_stack: "NodeJS, Kotlin, Swift, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -76269,7 +76269,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -76283,7 +76283,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, ",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, ",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -76311,7 +76311,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular, GIS",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular, GIS",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -76325,7 +76325,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -76353,7 +76353,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, Python, C / C++, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, Python, C / C++, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -76367,7 +76367,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -76423,7 +76423,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -76451,7 +76451,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "Java, Php, Ruby, JavaScript | Html | Css",
+    tech_stack: "Java, Php, Ruby, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -76465,7 +76465,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -76521,7 +76521,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -76605,7 +76605,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -76732,7 +76732,7 @@ const DATA = [
     level: "Senior",
     position: "QA / Automation",
     tech_stack:
-      "Java, NodeJS, JavaScript | Html | Css, Selenium, cucumber, gherkin",
+      "Java, NodeJS, JavaScript , Html , Css, Selenium, cucumber, gherkin",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -76802,7 +76802,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -76830,7 +76830,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Project Manager",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -76844,7 +76844,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -76887,7 +76887,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, Python, JavaScript | Html | Css, React, Angular, Flutter",
+      ".Net, NodeJS, Python, JavaScript , Html , Css, React, Angular, Flutter",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -76915,7 +76915,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -76999,7 +76999,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -77013,7 +77013,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -77056,7 +77056,7 @@ const DATA = [
     level: "Senior",
     position: "Mobile Application Developer (Full Stack)",
     tech_stack:
-      ".Net, Kotlin, Swift, JavaScript | Html | Css, Flutter, Xamarin",
+      ".Net, Kotlin, Swift, JavaScript , Html , Css, Flutter, Xamarin",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -77084,7 +77084,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, Flutter",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -77155,7 +77155,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, Php, Go, Kotlin, Swift, Objective C, JavaScript | Html | Css, Flutter",
+      "Java, Php, Go, Kotlin, Swift, Objective C, JavaScript , Html , Css, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -77225,7 +77225,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -77296,7 +77296,7 @@ const DATA = [
     level: "Senior",
     position: "Front-end Developer",
     tech_stack:
-      "Php, NodeJS, Python, JavaScript | Html | Css, React, React Native",
+      "Php, NodeJS, Python, JavaScript , Html , Css, React, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -77324,7 +77324,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -77352,7 +77352,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -77380,7 +77380,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -77450,7 +77450,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -77618,7 +77618,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -77646,7 +77646,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -77660,7 +77660,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -77702,7 +77702,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -77717,7 +77717,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, Python, JavaScript | Html | Css, React, React Native",
+      ".Net, NodeJS, Python, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -77731,7 +77731,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -77801,7 +77801,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -77815,7 +77815,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -77843,7 +77843,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Dynamics CRM ",
+    tech_stack: ".Net, JavaScript , Html , Css, Dynamics CRM ",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -77857,7 +77857,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Data Analyst",
-    tech_stack: "C / C++, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "C / C++, JavaScript , Html , Css, React, Vue, Angular",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -77899,7 +77899,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -77927,7 +77927,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -77969,7 +77969,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular, gis",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular, gis",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Diğer",
@@ -78012,7 +78012,7 @@ const DATA = [
     level: "Middle",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, NodeJS, Python, Kotlin, Swift, JavaScript | Html | Css, React, React Native",
+      "Java, NodeJS, Python, Kotlin, Swift, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -78068,7 +78068,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -78096,7 +78096,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue, Flutter",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -78236,7 +78236,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -78278,7 +78278,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -78334,7 +78334,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -78362,7 +78362,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue, PostgreSQL",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue, PostgreSQL",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -78404,7 +78404,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -78446,7 +78446,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -78502,7 +78502,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -78530,7 +78530,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -78670,7 +78670,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -78712,7 +78712,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, .Net, Python, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, .Net, Python, JavaScript , Html , Css, React, Angular",
     experience: "10 - 12 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -78740,7 +78740,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Finans",
@@ -78754,7 +78754,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -78769,7 +78769,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      ".Net, Php, NodeJS, C / C++, JavaScript | Html | Css, Flutter, React Native",
+      ".Net, Php, NodeJS, C / C++, JavaScript , Html , Css, Flutter, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -78839,7 +78839,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -78853,7 +78853,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Project Manager",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -78895,7 +78895,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, NodeJS, Go, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: ".Net, NodeJS, Go, JavaScript , Html , Css, Vue, Flutter",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -79077,7 +79077,7 @@ const DATA = [
   {
     level: "Junior",
     position: "QA / Automation",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -79189,7 +79189,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Embedded Software Developer",
-    tech_stack: "Php, Python, JavaScript | Html | Css",
+    tech_stack: "Php, Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -79203,7 +79203,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -79273,7 +79273,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -79315,7 +79315,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -79385,7 +79385,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Go, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Go, Python, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -79413,7 +79413,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -79455,7 +79455,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -79497,7 +79497,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -79567,7 +79567,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -79679,7 +79679,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -79721,7 +79721,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -79735,7 +79735,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -79763,7 +79763,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -79805,7 +79805,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -79833,7 +79833,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -79903,7 +79903,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -79931,7 +79931,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -79973,7 +79973,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -80015,7 +80015,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -80099,7 +80099,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Director of Software Development",
-    tech_stack: "Java, Swift, Objective C, C / C++, JavaScript | Html | Css",
+    tech_stack: "Java, Swift, Objective C, C / C++, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -80113,7 +80113,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, Python, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, Python, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -80127,7 +80127,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -80141,7 +80141,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -80156,7 +80156,7 @@ const DATA = [
     level: "Senior",
     position: "Mobile Application Developer (iOS)",
     tech_stack:
-      "Swift, Objective C, C / C++, JavaScript | Html | Css, React Native",
+      "Swift, Objective C, C / C++, JavaScript , Html , Css, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -80184,7 +80184,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, NodeJS, Python, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, Python, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -80198,7 +80198,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -80226,7 +80226,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -80254,7 +80254,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, ",
+    tech_stack: ".Net, JavaScript , Html , Css, React, ",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -80268,7 +80268,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -80282,7 +80282,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -80464,7 +80464,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Software Architect",
-    tech_stack: "C / C++, JavaScript | Html | Css",
+    tech_stack: "C / C++, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -80506,7 +80506,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Oyun",
@@ -80520,7 +80520,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -80548,7 +80548,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -80604,7 +80604,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -80646,7 +80646,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -80660,7 +80660,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -80716,7 +80716,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -80730,7 +80730,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -80842,7 +80842,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -80912,7 +80912,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -80926,7 +80926,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Data Analyst",
-    tech_stack: "Python, JavaScript | Html | Css, Angular",
+    tech_stack: "Python, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Tekstil ",
@@ -80954,7 +80954,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Director of Software Development",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -81052,7 +81052,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81108,7 +81108,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -81122,7 +81122,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81178,7 +81178,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -81206,7 +81206,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81234,7 +81234,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81262,7 +81262,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -81276,7 +81276,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, JavaScript | Html | Css",
+    tech_stack: "Java, Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81347,7 +81347,7 @@ const DATA = [
     level: "Senior",
     position: "Front-end Developer",
     tech_stack:
-      "Php, JavaScript | Html | Css, React, Vue, Angular, Fıgma, adobe xd",
+      "Php, JavaScript , Html , Css, React, Vue, Angular, Fıgma, adobe xd",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81403,7 +81403,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -81446,7 +81446,7 @@ const DATA = [
     level: "Middle",
     position: "Full Stack Developer",
     tech_stack:
-      "Php, Go, Kotlin, Swift, Objective C, JavaScript | Html | Css, Vue, Flutter",
+      "Php, Go, Kotlin, Swift, Objective C, JavaScript , Html , Css, Vue, Flutter",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -81488,7 +81488,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Sağlık",
@@ -81586,7 +81586,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Python, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81600,7 +81600,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Oyun",
@@ -81712,7 +81712,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -81740,7 +81740,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, .Net, NodeJS, Kotlin, Swift, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, NodeJS, Kotlin, Swift, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81796,7 +81796,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81810,7 +81810,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -81852,7 +81852,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "NodeJS, Kotlin, Swift, JavaScript | Html | Css, Flutter",
+    tech_stack: "NodeJS, Kotlin, Swift, JavaScript , Html , Css, Flutter",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81908,7 +81908,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81922,7 +81922,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, NextJS",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, NextJS",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81936,7 +81936,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -81993,7 +81993,7 @@ const DATA = [
     level: "Senior",
     position: "Front-end Developer",
     tech_stack:
-      ".Net, NodeJS, JavaScript | Html | Css, React, Angular, React Native",
+      ".Net, NodeJS, JavaScript , Html , Css, React, Angular, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82007,7 +82007,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82035,7 +82035,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82091,7 +82091,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue, Sql",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue, Sql",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -82189,7 +82189,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82245,7 +82245,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82259,7 +82259,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82357,7 +82357,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Python, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82413,7 +82413,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "Java, .Net, Python, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, Python, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82427,7 +82427,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -82441,7 +82441,7 @@ const DATA = [
   {
     level: "Senior",
     position: "QA / Automation",
-    tech_stack: "Java, Python, JavaScript | Html | Css",
+    tech_stack: "Java, Python, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -82455,7 +82455,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, Python, JavaScript | Html | Css, Flutter",
+    tech_stack: "Php, NodeJS, Python, JavaScript , Html , Css, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82525,7 +82525,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82567,7 +82567,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82595,7 +82595,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -82609,7 +82609,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -82637,7 +82637,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82693,7 +82693,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, Vue",
+    tech_stack: "Python, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -82763,7 +82763,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Objective C, JavaScript | Html | Css",
+    tech_stack: ".Net, Objective C, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -82833,7 +82833,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Network & System Engineer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -83001,7 +83001,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -83085,7 +83085,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Game Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -83127,7 +83127,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -83141,7 +83141,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -83197,7 +83197,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -83253,7 +83253,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -83281,7 +83281,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Flutter",
+    tech_stack: "Php, JavaScript , Html , Css, Flutter",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -83309,7 +83309,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React Native",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -83379,7 +83379,7 @@ const DATA = [
   {
     level: "Senior",
     position: "QA / Automation",
-    tech_stack: "Java, Go, Python, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, Go, Python, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -83505,7 +83505,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -83533,7 +83533,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -83561,7 +83561,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, Php, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Php, Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -83590,7 +83590,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Php, NodeJS, Ruby, JavaScript | Html | Css, React, Vue, React Native",
+      "Php, NodeJS, Ruby, JavaScript , Html , Css, React, Vue, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -83618,7 +83618,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -83632,7 +83632,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -83660,7 +83660,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -83758,7 +83758,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -83814,7 +83814,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -83856,7 +83856,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "NodeJS, Go, Python, JavaScript | Html | Css, React, Vue, rust",
+    tech_stack: "NodeJS, Go, Python, JavaScript , Html , Css, React, Vue, rust",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -83870,7 +83870,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -83884,7 +83884,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -83926,7 +83926,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, xamarin",
+    tech_stack: ".Net, JavaScript , Html , Css, xamarin",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -83940,7 +83940,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Flutter",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -84053,7 +84053,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React",
+    tech_stack: "Php, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -84081,7 +84081,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -84179,7 +84179,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -84193,7 +84193,7 @@ const DATA = [
   {
     level: "Middle",
     position: "DevOps Engineer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -84207,7 +84207,7 @@ const DATA = [
   {
     level: "Middle",
     position: "SRE",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -84305,7 +84305,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Kotlin, Swift, JavaScript | Html | Css",
+    tech_stack: "Java, Kotlin, Swift, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -84348,7 +84348,7 @@ const DATA = [
     level: "Middle",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, .Net, JavaScript | Html | Css, React, Angular, React Native",
+      "Java, .Net, JavaScript , Html , Css, React, Angular, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -84390,7 +84390,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -84488,7 +84488,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -84502,7 +84502,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Java, Php, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Java, Php, JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -84516,7 +84516,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -84544,7 +84544,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, Php, JavaScript | Html | Css, ",
+    tech_stack: "Java, Php, JavaScript , Html , Css, ",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -84586,7 +84586,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -84600,7 +84600,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -84614,7 +84614,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -84670,7 +84670,7 @@ const DATA = [
   {
     level: "Junior",
     position: "QA / Manuel Test",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -84684,7 +84684,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Manuel Test",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -84699,7 +84699,7 @@ const DATA = [
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
     tech_stack:
-      ".Net, Swift, Objective C, JavaScript | Html | Css, React, Angular",
+      ".Net, Swift, Objective C, JavaScript , Html , Css, React, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -84727,7 +84727,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -84811,7 +84811,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, Flutter, React Native",
+    tech_stack: "JavaScript , Html , Css, Flutter, React Native",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -84867,7 +84867,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, C / C++, JavaScript | Html | Css, Vue, C#",
+    tech_stack: "Java, .Net, C / C++, JavaScript , Html , Css, Vue, C#",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -84881,7 +84881,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "JavaScript | Html | Css, Salesforce Commerce Cloud",
+    tech_stack: "JavaScript , Html , Css, Salesforce Commerce Cloud",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -84910,7 +84910,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, .Net, NodeJS, C / C++, JavaScript | Html | Css, Angular, Flutter",
+      "Java, .Net, NodeJS, C / C++, JavaScript , Html , Css, Angular, Flutter",
     experience: "10 - 12 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -84953,7 +84953,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, Python, JavaScript | Html | Css, React, React Native",
+      ".Net, NodeJS, Python, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -84995,7 +84995,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -85051,7 +85051,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -85079,7 +85079,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular, React Native",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -85093,7 +85093,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -85149,7 +85149,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -85191,7 +85191,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -85275,7 +85275,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -85317,7 +85317,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -85457,7 +85457,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -85471,7 +85471,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Ar-Ge",
@@ -85499,7 +85499,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -85513,7 +85513,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Database Administrator (DBA)",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Kamu",
@@ -85569,7 +85569,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -85583,7 +85583,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, typescript",
+    tech_stack: ".Net, JavaScript , Html , Css, typescript",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -85653,7 +85653,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -85695,7 +85695,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, Pl Sql",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, Pl Sql",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -85709,7 +85709,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -85751,7 +85751,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -85765,7 +85765,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -85779,7 +85779,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Data Scientist",
-    tech_stack: "Php, Python, JavaScript | Html | Css",
+    tech_stack: "Php, Python, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -85807,7 +85807,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -85821,7 +85821,7 @@ const DATA = [
   {
     level: "Junior",
     position: "CRM Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, C#, MVC",
+    tech_stack: ".Net, JavaScript , Html , Css, C#, MVC",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -85849,7 +85849,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Embedded Software Developer",
-    tech_stack: "Java, .Net, Php, Python, C / C++, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, Php, Python, C / C++, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -85863,7 +85863,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -85947,7 +85947,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -85989,7 +85989,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -86074,7 +86074,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Php, NodeJS, Kotlin, JavaScript | Html | Css, React, Angular, React Native",
+      "Php, NodeJS, Kotlin, JavaScript , Html , Css, React, Angular, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -86103,7 +86103,7 @@ const DATA = [
     level: "Senior",
     position: "DevOps Engineer",
     tech_stack:
-      "Java, NodeJS, Python, Objective C, JavaScript | Html | Css, React, Vue",
+      "Java, NodeJS, Python, Objective C, JavaScript , Html , Css, React, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -86145,7 +86145,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -86159,7 +86159,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -86187,7 +86187,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, Python, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, NodeJS, Python, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -86229,7 +86229,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -86341,7 +86341,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -86439,7 +86439,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -86454,7 +86454,7 @@ const DATA = [
     level: "Senior",
     position: "Mobile Application Developer (Android)",
     tech_stack:
-      "Java, Kotlin, Objective C, JavaScript | Html | Css, React Native",
+      "Java, Kotlin, Objective C, JavaScript , Html , Css, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -86552,7 +86552,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, MSSQL",
+    tech_stack: ".Net, JavaScript , Html , Css, MSSQL",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -86636,7 +86636,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -86651,7 +86651,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, .Net, JavaScript | Html | Css, React, Angular, React Native",
+      "Java, .Net, JavaScript , Html , Css, React, Angular, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -86665,7 +86665,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -86679,7 +86679,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, Php, Python, Kotlin, JavaScript | Html | Css",
+    tech_stack: "Java, Php, Python, Kotlin, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -86693,7 +86693,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -86763,7 +86763,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -87016,7 +87016,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, .Net, Php, Kotlin, JavaScript | Html | Css, React, Angular, React Native",
+      "Java, .Net, Php, Kotlin, JavaScript , Html , Css, React, Angular, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -87030,7 +87030,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, NodeJS, Python, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -87086,7 +87086,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Automation",
-    tech_stack: "Java, Php, JavaScript | Html | Css",
+    tech_stack: "Java, Php, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -87100,7 +87100,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -87129,7 +87129,7 @@ const DATA = [
     level: "Junior",
     position: "Front-end Developer",
     tech_stack:
-      "Php, NodeJS, JavaScript | Html | Css, React, React Native, Unity",
+      "Php, NodeJS, JavaScript , Html , Css, React, React Native, Unity",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -87158,7 +87158,7 @@ const DATA = [
     level: "Senior",
     position: "Software Architect",
     tech_stack:
-      "NodeJS, JavaScript | Html | Css, React, Vue, Angular, React Native",
+      "NodeJS, JavaScript , Html , Css, React, Vue, Angular, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -87256,7 +87256,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Teknoloji",
@@ -87284,7 +87284,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -87298,7 +87298,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, JavaScript | Html | Css",
+    tech_stack: ".Net, Php, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -87312,7 +87312,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -87354,7 +87354,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kobi",
@@ -87368,7 +87368,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React",
+    tech_stack: "Php, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -87410,7 +87410,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -87550,7 +87550,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -87592,7 +87592,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css, Xamarin",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css, Xamarin",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -87746,7 +87746,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -87872,7 +87872,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -87900,7 +87900,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -87928,7 +87928,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -87956,7 +87956,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -87984,7 +87984,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -88055,7 +88055,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "NodeJS, Python, C / C++, JavaScript | Html | Css, React, React Native",
+      "NodeJS, Python, C / C++, JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -88069,7 +88069,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -88167,7 +88167,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -88209,7 +88209,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -88237,7 +88237,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -88279,7 +88279,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -88307,7 +88307,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue, Angular, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue, Angular, Flutter",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -88335,7 +88335,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -88363,7 +88363,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, JavaScript | Html | Css",
+    tech_stack: ".Net, Php, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -88531,7 +88531,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -88671,7 +88671,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Project Manager",
-    tech_stack: "Java, .Net, Kotlin, C / C++, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, Kotlin, C / C++, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -88686,7 +88686,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, Python, JavaScript | Html | Css, React, Vue, Angular, React Native",
+      ".Net, NodeJS, Python, JavaScript , Html , Css, React, Vue, Angular, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -88756,7 +88756,7 @@ const DATA = [
   {
     level: "Middle",
     position: "SAP/ABAP",
-    tech_stack: ".Net, JavaScript | Html | Css, UI5",
+    tech_stack: ".Net, JavaScript , Html , Css, UI5",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -88770,7 +88770,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Embedded Software Developer",
-    tech_stack: "Python, JavaScript | Html | Css, Bash",
+    tech_stack: "Python, JavaScript , Html , Css, Bash",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -88812,7 +88812,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -88882,7 +88882,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -88952,7 +88952,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, Python, JavaScript | Html | Css, Powershell",
+    tech_stack: ".Net, Php, Python, JavaScript , Html , Css, Powershell",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -89036,7 +89036,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -89050,7 +89050,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -89079,7 +89079,7 @@ const DATA = [
   {
     level: "Junior",
     position: "QA / Manuel Test",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -89149,7 +89149,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -89205,7 +89205,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -89219,7 +89219,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -89233,7 +89233,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -89275,7 +89275,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -89317,7 +89317,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -89401,7 +89401,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -89443,7 +89443,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -89457,7 +89457,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -89513,7 +89513,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -89597,7 +89597,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -89639,7 +89639,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -89667,7 +89667,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -89737,7 +89737,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -89779,7 +89779,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue, Angular",
+    tech_stack: "JavaScript , Html , Css, Vue, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -89961,7 +89961,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -89990,7 +89990,7 @@ const DATA = [
     level: "Middle",
     position: "Full Stack Developer",
     tech_stack:
-      "Php, NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+      "Php, NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -90158,7 +90158,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -90200,7 +90200,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -90284,7 +90284,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Manuel Test",
-    tech_stack: "Java, .Net, C / C++, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, C / C++, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -90312,7 +90312,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -90326,7 +90326,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -90340,7 +90340,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -90368,7 +90368,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -90382,7 +90382,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -90438,7 +90438,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue, Angular, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue, Angular, Flutter",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -90522,7 +90522,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -90536,7 +90536,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -90564,7 +90564,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -90620,7 +90620,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular, Flutter",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -90690,7 +90690,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, Go, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Go, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -90732,7 +90732,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -90746,7 +90746,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -90816,7 +90816,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -90844,7 +90844,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -90984,7 +90984,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React Native",
+    tech_stack: "JavaScript , Html , Css, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -91026,7 +91026,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -91054,7 +91054,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -91068,7 +91068,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -91082,7 +91082,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -91096,7 +91096,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Project Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -91152,7 +91152,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Swift, Objective C, C / C++, JavaScript | Html | Css",
+    tech_stack: "NodeJS, Swift, Objective C, C / C++, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -91306,7 +91306,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -91516,7 +91516,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Oracle SQL",
+    tech_stack: ".Net, JavaScript , Html , Css, Oracle SQL",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -91572,7 +91572,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -91586,7 +91586,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -91600,7 +91600,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -91614,7 +91614,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -91684,7 +91684,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Ruby, JavaScript | Html | Css, React",
+    tech_stack: ".Net, Ruby, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -91698,7 +91698,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Automation",
-    tech_stack: "C / C++, JavaScript | Html | Css",
+    tech_stack: "C / C++, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -91740,7 +91740,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -91768,7 +91768,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -91894,7 +91894,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -91950,7 +91950,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -91978,7 +91978,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -91992,7 +91992,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -92090,7 +92090,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, Sap abap",
+    tech_stack: "JavaScript , Html , Css, Sap abap",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -92104,7 +92104,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -92118,7 +92118,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -92146,7 +92146,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Outsource",
@@ -92160,7 +92160,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, React",
+    tech_stack: "Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -92230,7 +92230,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -92272,7 +92272,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -92286,7 +92286,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -92301,7 +92301,7 @@ const DATA = [
     level: "Middle",
     position: "Embedded Software Developer",
     tech_stack:
-      "Java, .Net, Go, Python, C / C++, JavaScript | Html | Css, React, React Native",
+      "Java, .Net, Go, Python, C / C++, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -92371,7 +92371,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, Python, Kotlin, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, Python, Kotlin, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -92385,7 +92385,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -92553,7 +92553,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Product Manager",
-    tech_stack: "Java, .Net, C / C++, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, C / C++, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -92567,7 +92567,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -92651,7 +92651,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kobi",
@@ -92679,7 +92679,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, .Net, Python, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: "Java, .Net, Python, JavaScript , Html , Css, Vue, Flutter",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -92693,7 +92693,7 @@ const DATA = [
   {
     level: "Senior",
     position: "IT Manager",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -92735,7 +92735,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -92750,7 +92750,7 @@ const DATA = [
     level: "Senior",
     position: "Front-end Developer",
     tech_stack:
-      "Java, .Net, NodeJS, Go, C / C++, JavaScript | Html | Css, React, Vue, Angular, Flutter, React Native",
+      "Java, .Net, NodeJS, Go, C / C++, JavaScript , Html , Css, React, Vue, Angular, Flutter, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -92778,7 +92778,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Python, JavaScript | Html | Css, React",
+    tech_stack: "Python, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -92848,7 +92848,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React Native",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -92946,7 +92946,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -93002,7 +93002,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, React, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -93016,7 +93016,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -93086,7 +93086,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Php, NodeJS, Go, JavaScript | Html | Css, React",
+    tech_stack: "Php, NodeJS, Go, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -93100,7 +93100,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue, Flutter, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue, Flutter, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kobi",
@@ -93114,7 +93114,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -93184,7 +93184,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -93254,7 +93254,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue, Angular, Flutter, Ionic",
+    tech_stack: "JavaScript , Html , Css, Vue, Angular, Flutter, Ionic",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -93366,7 +93366,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -93381,7 +93381,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      "Java, NodeJS, Python, Swift, JavaScript | Html | Css, React, React Native",
+      "Java, NodeJS, Python, Swift, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -93647,7 +93647,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -93689,7 +93689,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -93704,7 +93704,7 @@ const DATA = [
     level: "Senior",
     position: "CTO",
     tech_stack:
-      "Php, NodeJS, Go, JavaScript | Html | Css, React, Vue, React Native",
+      "Php, NodeJS, Go, JavaScript , Html , Css, React, Vue, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -93732,7 +93732,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Director of Software Development",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -93788,7 +93788,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, svelte",
+    tech_stack: "NodeJS, JavaScript , Html , Css, svelte",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Oyun",
@@ -93802,7 +93802,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -93816,7 +93816,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -93844,7 +93844,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -93900,7 +93900,7 @@ const DATA = [
   {
     level: "Senior",
     position: "DevOps Engineer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -93914,7 +93914,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Php, NodeJS, Go, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, Go, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -93928,7 +93928,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -93942,7 +93942,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, Kotlin, Swift, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Kotlin, Swift, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -93998,7 +93998,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -94110,7 +94110,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -94152,7 +94152,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Sigortacılık",
@@ -94236,7 +94236,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -94264,7 +94264,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -94292,7 +94292,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -94404,7 +94404,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -94433,7 +94433,7 @@ const DATA = [
     level: "Senior",
     position: "CTO",
     tech_stack:
-      "Php, NodeJS, Python, Ruby, C / C++, JavaScript | Html | Css, Vue, Flutter",
+      "Php, NodeJS, Python, Ruby, C / C++, JavaScript , Html , Css, Vue, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -94461,7 +94461,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -94699,7 +94699,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -94769,7 +94769,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, Php, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, Php, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -94839,7 +94839,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -94853,7 +94853,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, Php, NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "Java, Php, NodeJS, Python, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -94881,7 +94881,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -94923,7 +94923,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -94965,7 +94965,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -95063,7 +95063,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -95078,7 +95078,7 @@ const DATA = [
     level: "Senior",
     position: "Software Architect",
     tech_stack:
-      ".Net, NodeJS, JavaScript | Html | Css, React, Angular, React Native, Unity",
+      ".Net, NodeJS, JavaScript , Html , Css, React, Angular, React Native, Unity",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -95092,7 +95092,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Diğer",
@@ -95106,7 +95106,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, Kotlin, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, .Net, Kotlin, JavaScript , Html , Css, React, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -95120,7 +95120,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -95302,7 +95302,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -95344,7 +95344,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -95358,7 +95358,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Manuel Test",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -95428,7 +95428,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -95456,7 +95456,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Freelancer",
@@ -95484,7 +95484,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Python, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Java, Python, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -95596,7 +95596,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -95624,7 +95624,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, Go, JavaScript | Html | Css",
+    tech_stack: "Php, Go, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -95694,7 +95694,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -95736,7 +95736,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -95750,7 +95750,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -95778,7 +95778,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -95848,7 +95848,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -95876,7 +95876,7 @@ const DATA = [
   {
     level: "Junior",
     position: "DevOps Engineer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -95904,7 +95904,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -95918,7 +95918,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -95975,7 +95975,7 @@ const DATA = [
     level: "Middle",
     position: "Database Administrator (DBA)",
     tech_stack:
-      ".Net, NodeJS, JavaScript | Html | Css, React, SQL, postgreSQL, PLPGSQL",
+      ".Net, NodeJS, JavaScript , Html , Css, React, SQL, postgreSQL, PLPGSQL",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -95989,7 +95989,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Mssql",
+    tech_stack: ".Net, JavaScript , Html , Css, Mssql",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -96017,7 +96017,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -96031,7 +96031,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -96059,7 +96059,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -96073,7 +96073,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -96129,7 +96129,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -96143,7 +96143,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -96185,7 +96185,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -96255,7 +96255,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -96325,7 +96325,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -96354,7 +96354,7 @@ const DATA = [
     level: "Middle",
     position: "QA / Manuel Test",
     tech_stack:
-      "Java, NodeJS, Swift, C / C++, JavaScript | Html | Css, React, Flutter, React Native",
+      "Java, NodeJS, Swift, C / C++, JavaScript , Html , Css, React, Flutter, React Native",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -96382,7 +96382,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -96410,7 +96410,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -96452,7 +96452,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -96494,7 +96494,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -96550,7 +96550,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -96592,7 +96592,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -96606,7 +96606,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -96662,7 +96662,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Dynamics Crm sdk",
+    tech_stack: ".Net, JavaScript , Html , Css, Dynamics Crm sdk",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -96690,7 +96690,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -96718,7 +96718,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -96775,7 +96775,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Php, NodeJS, Python, JavaScript | Html | Css, React, Flutter, React Native",
+      "Php, NodeJS, Python, JavaScript , Html , Css, React, Flutter, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -96803,7 +96803,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Lit element",
+    tech_stack: "Java, JavaScript , Html , Css, Lit element",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -96860,7 +96860,7 @@ const DATA = [
     level: "Middle",
     position: "Full Stack Developer",
     tech_stack:
-      "Php, Go, JavaScript | Html | Css, Sveltekit, Symfony, Tailwindcss",
+      "Php, Go, JavaScript , Html , Css, Sveltekit, Symfony, Tailwindcss",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Freelancer",
@@ -96874,7 +96874,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -96930,7 +96930,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: "Java, Php, JavaScript , Html , Css, Vue, Flutter",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -96958,7 +96958,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React Native, pl sql",
+    tech_stack: ".Net, JavaScript , Html , Css, React Native, pl sql",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -96972,7 +96972,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Php, Go, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, Go, JavaScript , Html , Css, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -97014,7 +97014,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -97043,7 +97043,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, .Net, Php, NodeJS, Go, Python, JavaScript | Html | Css, React, Vue, Flutter, React Native",
+      "Java, .Net, Php, NodeJS, Go, Python, JavaScript , Html , Css, React, Vue, Flutter, React Native",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -97085,7 +97085,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -97225,7 +97225,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -97309,7 +97309,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -97393,7 +97393,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React, Vue, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -97421,7 +97421,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -97449,7 +97449,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kamu",
@@ -97506,7 +97506,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      ".Net, NodeJS, Go, Python, JavaScript | Html | Css, React, Flutter, React Native",
+      ".Net, NodeJS, Go, Python, JavaScript , Html , Css, React, Flutter, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -97576,7 +97576,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "JavaScript , Html , Css, React, Vue, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -97591,7 +97591,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      "NodeJS, Go, Python, JavaScript | Html | Css, React, Flutter, Docker, kubernetes",
+      "NodeJS, Go, Python, JavaScript , Html , Css, React, Flutter, Docker, kubernetes",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -97619,7 +97619,7 @@ const DATA = [
   {
     level: "Junior",
     position: "QA / Automation",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -97689,7 +97689,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -97703,7 +97703,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -97759,7 +97759,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -97899,7 +97899,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -97941,7 +97941,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -98165,7 +98165,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -98179,7 +98179,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -98291,7 +98291,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -98305,7 +98305,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -98319,7 +98319,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -98361,7 +98361,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Business Analyst",
-    tech_stack: "JavaScript | Html | Css, Sql",
+    tech_stack: "JavaScript , Html , Css, Sql",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -98403,7 +98403,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -98473,7 +98473,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -98585,7 +98585,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -98613,7 +98613,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -98683,7 +98683,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -98711,7 +98711,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -98823,7 +98823,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Director of Software Development",
-    tech_stack: "JavaScript | Html | Css, Sql, abap",
+    tech_stack: "JavaScript , Html , Css, Sql, abap",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -98837,7 +98837,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -98880,7 +98880,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+      ".Net, NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -98894,7 +98894,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -99006,7 +99006,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -99020,7 +99020,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "Java, Php, Python, Ruby, JavaScript | Html | Css",
+    tech_stack: "Java, Php, Python, Ruby, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -99048,7 +99048,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -99062,7 +99062,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -99076,7 +99076,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular, Flutter",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -99090,7 +99090,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -99146,7 +99146,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -99202,7 +99202,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -99258,7 +99258,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Flutter",
+    tech_stack: "Php, JavaScript , Html , Css, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -99272,7 +99272,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -99286,7 +99286,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -99384,7 +99384,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -99398,7 +99398,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "İnşaat",
@@ -99412,7 +99412,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -99426,7 +99426,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -99482,7 +99482,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -99636,7 +99636,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -99735,7 +99735,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      "Java, .Net, NodeJS, JavaScript | Html | Css, React, Angular, React Native",
+      "Java, .Net, NodeJS, JavaScript , Html , Css, React, Angular, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -99777,7 +99777,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Diğer",
@@ -99805,7 +99805,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Kadın",
     company: "Kurumsal",
@@ -99833,7 +99833,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "Java, JavaScript | Html | Css, React Native",
+    tech_stack: "Java, JavaScript , Html , Css, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -99847,7 +99847,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -99945,7 +99945,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -99973,7 +99973,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -99987,7 +99987,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -100057,7 +100057,7 @@ const DATA = [
   {
     level: "Middle",
     position: "SAP/ABAP",
-    tech_stack: "JavaScript | Html | Css, Abap",
+    tech_stack: "JavaScript , Html , Css, Abap",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -100071,7 +100071,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, jQuery",
+    tech_stack: ".Net, JavaScript , Html , Css, jQuery",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -100114,7 +100114,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, .Net, NodeJS, Kotlin, Swift, Objective C, C / C++, JavaScript | Html | Css, Angular",
+      "Java, .Net, NodeJS, Kotlin, Swift, Objective C, C / C++, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -100184,7 +100184,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -100254,7 +100254,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -100268,7 +100268,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -100282,7 +100282,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Sharepoint ",
+    tech_stack: "JavaScript , Html , Css, React, Sharepoint ",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -100296,7 +100296,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -100366,7 +100366,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -100520,7 +100520,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React, Vue, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -100534,7 +100534,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, Python, Kotlin, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, Python, Kotlin, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -100646,7 +100646,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -100675,7 +100675,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      "Java, .Net, Go, C / C++, JavaScript | Html | Css, React, Vue, Angular",
+      "Java, .Net, Go, C / C++, JavaScript , Html , Css, React, Vue, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -100704,7 +100704,7 @@ const DATA = [
     level: "Senior",
     position: "CTO",
     tech_stack:
-      "Php, NodeJS, Python, JavaScript | Html | Css, React, Vue, React Native",
+      "Php, NodeJS, Python, JavaScript , Html , Css, React, Vue, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -100718,7 +100718,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -100746,7 +100746,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -100816,7 +100816,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -100858,7 +100858,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Lojistik",
@@ -100886,7 +100886,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -100900,7 +100900,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -100928,7 +100928,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, NodeJS, Kotlin, Swift, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, Kotlin, Swift, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -100942,7 +100942,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -100956,7 +100956,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Manuel Test",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -100984,7 +100984,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -101026,7 +101026,7 @@ const DATA = [
   {
     level: "Junior",
     position: "QA / Automation",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -101082,7 +101082,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -101124,7 +101124,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -101138,7 +101138,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -101152,7 +101152,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, C / C++, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Java, NodeJS, C / C++, JavaScript , Html , Css, React, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -101208,7 +101208,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -101278,7 +101278,7 @@ const DATA = [
   {
     level: "Senior",
     position: "DevOps Engineer",
-    tech_stack: "Java, .Net, NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, .Net, NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -101306,7 +101306,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue",
+    tech_stack: "JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -101334,7 +101334,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -101348,7 +101348,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, Abap",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, Abap",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -101376,7 +101376,7 @@ const DATA = [
   {
     level: "Middle",
     position: "QA / Automation",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -101390,7 +101390,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Business Analyst",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -101404,7 +101404,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -101418,7 +101418,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Python, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: "Python, JavaScript , Html , Css, Vue, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -101474,7 +101474,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Dijital / Reklam Ajansı",
@@ -101530,7 +101530,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue, Angular, React Native",
+    tech_stack: "JavaScript , Html , Css, React, Vue, Angular, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -101544,7 +101544,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -101558,7 +101558,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -101600,7 +101600,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -101670,7 +101670,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -101684,7 +101684,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -101741,7 +101741,7 @@ const DATA = [
     level: "Middle",
     position: "Team / Tech Lead",
     tech_stack:
-      ".Net, NodeJS, Python, C / C++, JavaScript | Html | Css, Angular, Flutter",
+      ".Net, NodeJS, Python, C / C++, JavaScript , Html , Css, Angular, Flutter",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -101811,7 +101811,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -101839,7 +101839,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -101965,7 +101965,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -102063,7 +102063,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -102217,7 +102217,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Flutter",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -102273,7 +102273,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -102399,7 +102399,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -102511,7 +102511,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -102539,7 +102539,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Python, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Java, Python, JavaScript , Html , Css, React, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -102581,7 +102581,7 @@ const DATA = [
   {
     level: "Junior",
     position: "QA / Automation",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -102595,7 +102595,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -102609,7 +102609,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -102623,7 +102623,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -102651,7 +102651,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -102666,7 +102666,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      ".Net, NodeJS, Go, Kotlin, Swift, Objective C, JavaScript | Html | Css, React, React Native",
+      ".Net, NodeJS, Go, Kotlin, Swift, Objective C, JavaScript , Html , Css, React, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -102694,7 +102694,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -102736,7 +102736,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -102750,7 +102750,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Product Manager",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -102806,7 +102806,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Ar-Ge",
@@ -102862,7 +102862,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -102876,7 +102876,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -102932,7 +102932,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -102974,7 +102974,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -103045,7 +103045,7 @@ const DATA = [
     level: "Junior",
     position: "Cyber Security ",
     tech_stack:
-      "Java, .Net, NodeJS, Python, Kotlin, Swift, C / C++, JavaScript | Html | Css",
+      "Java, .Net, NodeJS, Python, Kotlin, Swift, C / C++, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -103143,7 +103143,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -103157,7 +103157,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -103213,7 +103213,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Banka",
@@ -103227,7 +103227,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -103241,7 +103241,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -103339,7 +103339,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -103437,7 +103437,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -103465,7 +103465,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, Sql ",
+    tech_stack: "JavaScript , Html , Css, Sql ",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -103549,7 +103549,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -103633,7 +103633,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -103689,7 +103689,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, NodeJS, JavaScript | Html | Css, Vue, Flutter",
+    tech_stack: ".Net, Php, NodeJS, JavaScript , Html , Css, Vue, Flutter",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -103703,7 +103703,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -103717,7 +103717,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -103801,7 +103801,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -103829,7 +103829,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Vue",
+    tech_stack: "JavaScript , Html , Css, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -103843,7 +103843,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -103885,7 +103885,7 @@ const DATA = [
   {
     level: "Middle",
     position: "CRM Developer",
-    tech_stack: ".Net, Kotlin, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, Kotlin, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -103927,7 +103927,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -104011,7 +104011,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -104025,7 +104025,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, JavaScript | Html | Css",
+    tech_stack: ".Net, Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -104067,7 +104067,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -104151,7 +104151,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -104221,7 +104221,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -104235,7 +104235,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -104291,7 +104291,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Go, JavaScript | Html | Css, React",
+    tech_stack: ".Net, Go, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -104417,7 +104417,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Flutter",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Flutter",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -104431,7 +104431,7 @@ const DATA = [
   {
     level: "Senior",
     position: "QA / Automation",
-    tech_stack: "Java, JavaScript | Html | Css, Typescript, selenium",
+    tech_stack: "Java, JavaScript , Html , Css, Typescript, selenium",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -104445,7 +104445,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css, Plsql",
+    tech_stack: "JavaScript , Html , Css, Plsql",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -104613,7 +104613,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -104641,7 +104641,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -104754,7 +104754,7 @@ const DATA = [
     level: "Senior",
     position: "Director of Software Development",
     tech_stack:
-      "Java, .Net, Kotlin, Swift, Objective C, JavaScript | Html | Css, React Native",
+      "Java, .Net, Kotlin, Swift, Objective C, JavaScript , Html , Css, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -104810,7 +104810,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -104936,7 +104936,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -104978,7 +104978,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -105035,7 +105035,7 @@ const DATA = [
     level: "Senior",
     position: "CTO",
     tech_stack:
-      ".Net, NodeJS, Kotlin, Swift, C / C++, JavaScript | Html | Css, React, React Native",
+      ".Net, NodeJS, Kotlin, Swift, C / C++, JavaScript , Html , Css, React, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -105049,7 +105049,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -105147,7 +105147,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -105161,7 +105161,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, React, React Native, Unity",
+    tech_stack: ".Net, JavaScript , Html , Css, React, React Native, Unity",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -105175,7 +105175,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -105231,7 +105231,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, Kotlin, JavaScript | Html | Css, React",
+    tech_stack: "Java, Kotlin, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -105287,7 +105287,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, Python, JavaScript | Html | Css, React, React Native",
+    tech_stack: "NodeJS, Python, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -105315,7 +105315,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Network & System Engineer",
-    tech_stack: "Python, C / C++, JavaScript | Html | Css",
+    tech_stack: "Python, C / C++, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -105329,7 +105329,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular, PLSQL ",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular, PLSQL ",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -105385,7 +105385,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -105399,7 +105399,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -105427,7 +105427,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -105441,7 +105441,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Python, JavaScript | Html | Css, React",
+    tech_stack: "Python, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -105455,7 +105455,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -105511,7 +105511,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -105567,7 +105567,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -105581,7 +105581,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -105623,7 +105623,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -105637,7 +105637,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -105665,7 +105665,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Project Manager",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -105763,7 +105763,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Ar-Ge",
@@ -105847,7 +105847,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, Go, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Php, Go, Python, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -105861,7 +105861,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Flutter",
+    tech_stack: "Java, JavaScript , Html , Css, Flutter",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Telekonumikasyon",
@@ -105889,7 +105889,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Vue, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -105917,7 +105917,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -105973,7 +105973,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -105987,7 +105987,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue, Angular",
+    tech_stack: "Php, JavaScript , Html , Css, Vue, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -106002,7 +106002,7 @@ const DATA = [
     level: "Senior",
     position: "Software Architect",
     tech_stack:
-      "Java, .Net, NodeJS, Go, JavaScript | Html | Css, React, Vue, Angular, Flutter, Unity",
+      "Java, .Net, NodeJS, Go, JavaScript , Html , Css, React, Vue, Angular, Flutter, Unity",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -106031,7 +106031,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, .Net, Php, NodeJS, C / C++, JavaScript | Html | Css, React, React Native",
+      "Java, .Net, Php, NodeJS, C / C++, JavaScript , Html , Css, React, React Native",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -106367,7 +106367,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -106381,7 +106381,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -106409,7 +106409,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -106423,7 +106423,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -106493,7 +106493,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -106521,7 +106521,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -106550,7 +106550,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, Php, NodeJS, JavaScript | Html | Css, React, Vue, Angular, Flutter, React Native",
+      ".Net, Php, NodeJS, JavaScript , Html , Css, React, Vue, Angular, Flutter, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -106774,7 +106774,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -106788,7 +106788,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -106816,7 +106816,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -106844,7 +106844,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, Go, Python, JavaScript | Html | Css",
+    tech_stack: "Java, NodeJS, Go, Python, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -106872,7 +106872,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -106900,7 +106900,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -107054,7 +107054,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -107180,7 +107180,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, Go, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, Go, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -107209,7 +107209,7 @@ const DATA = [
     level: "Senior",
     position: "CTO",
     tech_stack:
-      ".Net, Php, NodeJS, Python, JavaScript | Html | Css, Angular, Delphi ",
+      ".Net, Php, NodeJS, Python, JavaScript , Html , Css, Angular, Delphi ",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -107223,7 +107223,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Bootstrap, Jquery, PostgreSql",
+    tech_stack: ".Net, JavaScript , Html , Css, Bootstrap, Jquery, PostgreSql",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -107321,7 +107321,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -107461,7 +107461,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, Angular",
+    tech_stack: "JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -107475,7 +107475,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular, Flutter",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -107559,7 +107559,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Java, Php, NodeJS, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -107601,7 +107601,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -107671,7 +107671,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -107755,7 +107755,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -107797,7 +107797,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -107825,7 +107825,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -107853,7 +107853,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Oyun",
@@ -107951,7 +107951,7 @@ const DATA = [
   {
     level: "Junior",
     position: "DevOps Engineer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -107965,7 +107965,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -108035,7 +108035,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: ".Net, JavaScript | Html | Css, Flutter",
+    tech_stack: ".Net, JavaScript , Html , Css, Flutter",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -108049,7 +108049,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Go, Python, JavaScript | Html | Css, React",
+    tech_stack: "Go, Python, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -108091,7 +108091,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -108147,7 +108147,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -108175,7 +108175,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "Python, JavaScript | Html | Css, Jinja",
+    tech_stack: "Python, JavaScript , Html , Css, Jinja",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -108189,7 +108189,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -108259,7 +108259,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -108273,7 +108273,7 @@ const DATA = [
   {
     level: "Senior",
     position: "QA / Manuel Test",
-    tech_stack: "JavaScript | Html | Css, React Native",
+    tech_stack: "JavaScript , Html , Css, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -108288,7 +108288,7 @@ const DATA = [
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
     tech_stack:
-      "Php, NodeJS, Python, Swift, JavaScript | Html | Css, React, React Native",
+      "Php, NodeJS, Python, Swift, JavaScript , Html , Css, React, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Scaleup",
@@ -108302,7 +108302,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -108330,7 +108330,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -108442,7 +108442,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular, Unity",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular, Unity",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -108526,7 +108526,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -108540,7 +108540,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -108638,7 +108638,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -108666,7 +108666,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -108680,7 +108680,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -108694,7 +108694,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -108736,7 +108736,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -108750,7 +108750,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -108834,7 +108834,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Mobile Application Developer (Full Stack)",
-    tech_stack: "Kotlin, Swift, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Kotlin, Swift, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -108876,7 +108876,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -109003,7 +109003,7 @@ const DATA = [
     level: "Senior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, NodeJS, JavaScript | Html | Css, React, Vue, Angular, React Native",
+      ".Net, NodeJS, JavaScript , Html , Css, React, Vue, Angular, React Native",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -109031,7 +109031,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -109045,7 +109045,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, C / C++, JavaScript | Html | Css",
+    tech_stack: ".Net, C / C++, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -109185,7 +109185,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React",
+    tech_stack: "Java, JavaScript , Html , Css, React",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -109213,7 +109213,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -109227,7 +109227,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -109241,7 +109241,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -109311,7 +109311,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -109325,7 +109325,7 @@ const DATA = [
   {
     level: "Senior",
     position: "CTO",
-    tech_stack: "NodeJS, Go, JavaScript | Html | Css, Angular, Flutter",
+    tech_stack: "NodeJS, Go, JavaScript , Html , Css, Angular, Flutter",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -109395,7 +109395,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React",
+    tech_stack: "Php, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -109591,7 +109591,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -109605,7 +109605,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Python, JavaScript | Html | Css, React",
+    tech_stack: "Java, Python, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -109661,7 +109661,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -109773,7 +109773,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, React, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -109787,7 +109787,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -109844,7 +109844,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      "NodeJS, JavaScript | Html | Css, React, Vue, Angular, Flutter, React Native",
+      "NodeJS, JavaScript , Html , Css, React, Vue, Angular, Flutter, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Outsource",
@@ -109886,7 +109886,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -109928,7 +109928,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -109984,7 +109984,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Vue",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Vue",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -110082,7 +110082,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -110138,7 +110138,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -110334,7 +110334,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -110390,7 +110390,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, C / C++, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, C / C++, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -110418,7 +110418,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -110503,7 +110503,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Support",
-    tech_stack: ".Net, Python, JavaScript | Html | Css",
+    tech_stack: ".Net, Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -110573,7 +110573,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -110629,7 +110629,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -110685,7 +110685,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, Php, Python, C / C++, JavaScript | Html | Css",
+    tech_stack: ".Net, Php, Python, C / C++, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -110881,7 +110881,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Yazılım Evi & Danışmanlık",
@@ -110979,7 +110979,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -110993,7 +110993,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -111119,7 +111119,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -111231,7 +111231,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Php, NodeJS, Python, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, Python, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Startup",
@@ -111287,7 +111287,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Dijital / Reklam Ajansı",
@@ -111329,7 +111329,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, Php, JavaScript | Html | Css, React, Vue, Angular",
+    tech_stack: "Java, Php, JavaScript , Html , Css, React, Vue, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -111399,7 +111399,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, React, Vue",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -111413,7 +111413,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -111441,7 +111441,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -111455,7 +111455,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -111469,7 +111469,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -111497,7 +111497,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, Python, C / C++, JavaScript | Html | Css, Unreal",
+    tech_stack: "NodeJS, Python, C / C++, JavaScript , Html , Css, Unreal",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -111511,7 +111511,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, Flutter",
+    tech_stack: "NodeJS, JavaScript , Html , Css, Flutter",
     experience: "5 - 7 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -111525,7 +111525,7 @@ const DATA = [
   {
     level: "Junior",
     position: "QA / Automation",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "E-Ticaret",
@@ -111539,7 +111539,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -111567,7 +111567,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -111637,7 +111637,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Salesforce Developer",
-    tech_stack: "JavaScript | Html | Css, Apex",
+    tech_stack: "JavaScript , Html , Css, Apex",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -111666,7 +111666,7 @@ const DATA = [
     level: "Senior",
     position: "Team / Tech Lead",
     tech_stack:
-      "Java, NodeJS, Swift, Objective C, JavaScript | Html | Css, React Native",
+      "Java, NodeJS, Swift, Objective C, JavaScript , Html , Css, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -111680,7 +111680,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Software Architect",
-    tech_stack: ".Net, JavaScript | Html | Css, Microsoft",
+    tech_stack: ".Net, JavaScript , Html , Css, Microsoft",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -111694,7 +111694,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue, Laravel",
+    tech_stack: "Php, JavaScript , Html , Css, Vue, Laravel",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kobi",
@@ -111792,7 +111792,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -111806,7 +111806,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -111820,7 +111820,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Database Administrator (DBA)",
-    tech_stack: "Java, Python, JavaScript | Html | Css",
+    tech_stack: "Java, Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -111834,7 +111834,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -111905,7 +111905,7 @@ const DATA = [
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
     tech_stack:
-      "Java, .Net, Objective C, C / C++, JavaScript | Html | Css, React, Angular",
+      "Java, .Net, Objective C, C / C++, JavaScript , Html , Css, React, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -111947,7 +111947,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: "Java, Ruby, JavaScript | Html | Css, React, React Native",
+    tech_stack: "Java, Ruby, JavaScript , Html , Css, React, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -111961,7 +111961,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -112017,7 +112017,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "Java, NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -112059,7 +112059,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Architect",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -112073,7 +112073,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, React Native",
+    tech_stack: "JavaScript , Html , Css, React, React Native",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -112213,7 +112213,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -112269,7 +112269,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, Vue, React Native",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, Vue, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -112311,7 +112311,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -112409,7 +112409,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Back-end Developer",
-    tech_stack: "Python, JavaScript | Html | Css",
+    tech_stack: "Python, JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -112479,7 +112479,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
@@ -112507,7 +112507,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -112521,7 +112521,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -112591,7 +112591,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Project Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Ar-Ge",
@@ -112731,7 +112731,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -112885,7 +112885,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, NodeJS, JavaScript , Html , Css, Vue",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -112899,7 +112899,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, React, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -112913,7 +112913,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "C / C++, JavaScript | Html | Css, Angular",
+    tech_stack: "C / C++, JavaScript , Html , Css, Angular",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -112927,7 +112927,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -112941,7 +112941,7 @@ const DATA = [
   {
     level: "Middle",
     position: "CRM Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Dynamics 365",
+    tech_stack: ".Net, JavaScript , Html , Css, Dynamics 365",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -113011,7 +113011,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -113039,7 +113039,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: "Java, .Net, JavaScript | Html | Css",
+    tech_stack: "Java, .Net, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -113053,7 +113053,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Mobile Application Developer (iOS)",
-    tech_stack: "Kotlin, Swift, Objective C, JavaScript | Html | Css",
+    tech_stack: "Kotlin, Swift, Objective C, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -113067,7 +113067,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -113095,7 +113095,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Java, .Net, JavaScript | Html | Css, React, Angular",
+    tech_stack: "Java, .Net, JavaScript , Html , Css, React, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -113123,7 +113123,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Mobile Application Developer (Android)",
-    tech_stack: "Kotlin, JavaScript | Html | Css",
+    tech_stack: "Kotlin, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -113180,7 +113180,7 @@ const DATA = [
     level: "Senior",
     position: "Software Architect",
     tech_stack:
-      "Java, .Net, NodeJS, Python, Kotlin, C / C++, JavaScript | Html | Css, Angular",
+      "Java, .Net, NodeJS, Python, Kotlin, C / C++, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -113194,7 +113194,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, NodeJS, JavaScript , Html , Css, Angular",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -113320,7 +113320,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, NodeJS, Go, Python, JavaScript | Html | Css",
+    tech_stack: "Php, NodeJS, Go, Python, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -113362,7 +113362,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -113390,7 +113390,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -113460,7 +113460,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, React",
+    tech_stack: ".Net, JavaScript , Html , Css, React",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -113502,7 +113502,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React, Angular",
+    tech_stack: "JavaScript , Html , Css, React, Angular",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Outsource",
@@ -113516,7 +113516,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Data Scientist",
-    tech_stack: "Go, Python, JavaScript | Html | Css",
+    tech_stack: "Go, Python, JavaScript , Html , Css",
     experience: "5 - 7 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -113544,7 +113544,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -113572,7 +113572,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "0 - 1 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -113754,7 +113754,7 @@ const DATA = [
   {
     level: "Middle",
     position: "IT",
-    tech_stack: "JavaScript | Html | Css, Server",
+    tech_stack: "JavaScript , Html , Css, Server",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -113922,7 +113922,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, JavaScript | Html | Css, React, React Native",
+    tech_stack: ".Net, JavaScript , Html , Css, React, React Native",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -113936,7 +113936,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, Python, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, Python, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Banka",
@@ -113950,7 +113950,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, React, Angular, React Native",
+    tech_stack: "Java, JavaScript , Html , Css, React, Angular, React Native",
     experience: "12 - 14 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -113965,7 +113965,7 @@ const DATA = [
     level: "Middle",
     position: "Full Stack Developer",
     tech_stack:
-      "Java, .Net, NodeJS, Python, JavaScript | Html | Css, React, Vue, Flutter, React Native",
+      "Java, .Net, NodeJS, Python, JavaScript , Html , Css, React, Vue, Flutter, React Native",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -114063,7 +114063,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css",
+    tech_stack: "JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -114091,7 +114091,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript | Html | Css, React",
+    tech_stack: "JavaScript , Html , Css, React",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -114133,7 +114133,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css, React, React Native, UI5",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native, UI5",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Yazılım Evi & Danışmanlık",
@@ -114161,7 +114161,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Front-end Developer",
-    tech_stack: "Java, .Net, Php, NodeJS, JavaScript | Html | Css, React, Vue",
+    tech_stack: "Java, .Net, Php, NodeJS, JavaScript , Html , Css, React, Vue",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -114203,7 +114203,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Java, JavaScript | Html | Css, Angular",
+    tech_stack: "Java, JavaScript , Html , Css, Angular",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -114287,7 +114287,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Oyun",
@@ -114301,7 +114301,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: ".Net, NodeJS, Python, JavaScript | Html | Css, React Native",
+    tech_stack: ".Net, NodeJS, Python, JavaScript , Html , Css, React Native",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -114343,7 +114343,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Business Analyst ",
-    tech_stack: "Java, C / C++, JavaScript | Html | Css",
+    tech_stack: "Java, C / C++, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Kadın",
     company: "Kurumsal",
@@ -114385,7 +114385,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Back-end Developer",
-    tech_stack: "NodeJS, JavaScript | Html | Css",
+    tech_stack: "NodeJS, JavaScript , Html , Css",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -114441,7 +114441,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: ".Net, JavaScript | Html | Css",
+    tech_stack: ".Net, JavaScript , Html , Css",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -114469,7 +114469,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Back-end Developer",
-    tech_stack: "Java, JavaScript | Html | Css",
+    tech_stack: "Java, JavaScript , Html , Css",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -114525,7 +114525,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Product Manager",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Kadın",
     company: "Startup",
@@ -114595,7 +114595,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Team / Tech Lead",
-    tech_stack: ".Net, JavaScript | Html | Css, Angular",
+    tech_stack: ".Net, JavaScript , Html , Css, Angular",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -114609,7 +114609,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css",
+    tech_stack: "Php, JavaScript , Html , Css",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Diğer",
@@ -114623,7 +114623,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Full Stack Developer",
-    tech_stack: "Php, JavaScript | Html | Css, Vue",
+    tech_stack: "Php, JavaScript , Html , Css, Vue",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
