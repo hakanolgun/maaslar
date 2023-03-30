@@ -12,11 +12,11 @@ export default function Home() {
       </Head>
       <section
         style={{ minHeight: "100vh", backgroundColor: "black" }}
-        className="container d-flex flex-column align-items-center justify-content-center p-4 h-100"
+        className="container d-flex flex-column align-items-center justify-content-center p-4"
       >
         <Link
           style={{ textDecoration: "none", width: "200px" }}
-          className="btn bg-purple my-4"
+          className="btn bg-purple my-4 text-white"
           href="/search"
         >
           Arama Yap
