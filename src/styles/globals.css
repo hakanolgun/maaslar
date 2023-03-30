@@ -87,3 +87,6 @@ a {
   padding: 2rem 1rem;
   font-size: 12px;
 }
+.hvr:hover {
+  color: #944edf !important;
+}
