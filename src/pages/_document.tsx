@@ -7,7 +7,6 @@ class MyDocument extends Document {
       <Html lang="tr">
         <Head>
           <meta name="description" content="Bilişim Sektörü Ücretler" />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="icon" href="/favicon.ico" />
           <link
             rel="stylesheet"

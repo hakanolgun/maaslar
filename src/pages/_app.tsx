@@ -5,16 +5,21 @@ import { useEffect } from "react";
 import { store } from "@/store/store";
 import { Provider } from "react-redux";
 import Layout from "./_layout";
-
+import Head from "next/head";
 export default function App({ Component, pageProps }: AppProps) {
   useEffect(() => {
     import("bootstrap/dist/js/bootstrap" as never);
   }, []);
   return (
-    <Provider store={store}>
-      <Layout>
-        <Component {...pageProps} />
-      </Layout>
-    </Provider>
+    <>
+      <Head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </Head>
+      <Provider store={store}>
+        <Layout>
+          <Component {...pageProps} />
+        </Layout>
+      </Provider>
+    </>
   );
 }
