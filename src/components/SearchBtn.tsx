@@ -36,7 +36,11 @@ const SearchBtn = () => {
 
     dispatch(changeResult(updatedResult));
   };
-  return <Button onPress={handlePress}>Sonuçları Göster</Button>;
+  return (
+    <Button className="my-4" onPress={handlePress}>
+      Sonuçları Göster
+    </Button>
+  );
 };
 
 export default SearchBtn;
