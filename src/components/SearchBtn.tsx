@@ -7,12 +7,11 @@ import {
   getSalariesArray,
   getFilteredResult,
 } from "@/utils/result";
-import React, { useRef } from "react";
+import React from "react";
 
 const SearchBtn = () => {
   const filters = useFilters();
   const dispatch = useAppDispatch();
-  const myRef = useRef(null);
 
   const handlePress = () => {
     console.log("filters", filters);
@@ -35,14 +34,9 @@ const SearchBtn = () => {
     };
 
     dispatch(changeResult(updatedResult));
-    myRef!.current!.scrollIntoView();
   };
   return (
-    <button
-      ref={myRef}
-      className="btn bg-purple text-white my-4"
-      onClick={handlePress}
-    >
+    <button className="btn bg-purple text-white my-4" onClick={handlePress}>
       Sonuçları Göster
     </button>
   );
