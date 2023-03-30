@@ -2,12 +2,19 @@ import React from "react";
 import SearchBtn from "@/components/SearchBtn";
 import Result from "@/components/Result";
 import MultiFilter from "@/components/MultiFilter";
-import { positions, experiences, work_types, cities } from "@/data/filters";
+import {
+  positions,
+  experiences,
+  work_types,
+  cities,
+  tech_stacks,
+} from "@/data/filters";
 import {
   changeCity,
   changeExperience,
   changePosition,
   changeWorkType,
+  changeTechStack,
 } from "@/store/filterSlice";
 import Head from "next/head";
 
@@ -15,7 +22,7 @@ export default function Search() {
   return (
     <>
       <Head>
-        <title>Yazılım Sektörü Ücretler</title>
+        <title>Bilişim Sektörü Ücretler</title>
       </Head>
       <section
         style={{ backgroundColor: "black" }}
@@ -45,6 +52,12 @@ export default function Search() {
           update={changeCity}
           title="Şehir"
           name="city"
+        />
+        <MultiFilter
+          options={tech_stacks}
+          update={changeTechStack}
+          title="Teknolojiler"
+          name="techStack"
         />
         <SearchBtn />
         <Result />

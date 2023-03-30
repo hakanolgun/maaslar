@@ -9,11 +9,11 @@ interface IState {
 
 const initialState: IState = {
   filters: {
-    level: [],
     position: [],
     experience: [],
     workType: [],
     city: [],
+    techStack: [],
   },
 };
 
@@ -21,9 +21,6 @@ export const filterSlice = createSlice({
   name: "filters",
   initialState,
   reducers: {
-    changeLevel: (state, action) => {
-      state.filters.level = action.payload;
-    },
     changePosition: (state, action) => {
       state.filters.position = action.payload;
     },
@@ -36,15 +33,18 @@ export const filterSlice = createSlice({
     changeCity: (state, action) => {
       state.filters.city = action.payload;
     },
+    changeTechStack: (state, action) => {
+      state.filters.techStack = action.payload;
+    },
   },
 });
 
 export const {
-  changeLevel,
   changePosition,
   changeExperience,
   changeWorkType,
   changeCity,
+  changeTechStack,
 } = filterSlice.actions;
 
 export const useFilters = () =>

@@ -5,11 +5,6 @@ export function getFilteredResult(filter: IFilter) {
   let filteredArray: IData[] = [...DATA].filter(
     (i) => i.currency === "₺ - Türk Lirası"
   );
-  if (filter.level.length > 0) {
-    filteredArray = filteredArray.filter((item: IData) =>
-      filter.level.includes(item.level)
-    );
-  }
   if (filter.position.length > 0) {
     filteredArray = filteredArray.filter((item: IData) =>
       filter.position.includes(item.position)
@@ -29,6 +24,14 @@ export function getFilteredResult(filter: IFilter) {
     filteredArray = filteredArray.filter((item: IData) =>
       filter.city.includes(item.city.trim().toLowerCase())
     );
+  }
+  if (filter.techStack.length > 0) {
+    filteredArray = filteredArray.filter((item: IData) => {
+      const techStackWords = item.tech_stack
+        .split(",")
+        .map((word) => word.trim().toLowerCase());
+      return filter.techStack.some((value) => techStackWords.includes(value));
+    });
   }
   return filteredArray;
 }

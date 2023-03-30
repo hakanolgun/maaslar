@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Yazılım Sektörü Ücretler</title>
+        <title>Bilişim Sektörü Ücretler</title>
       </Head>
       <section
         style={{ minHeight: "100vh", backgroundColor: "black" }}
@@ -16,7 +16,7 @@ export default function Home() {
       >
         <Link
           style={{ textDecoration: "none", width: "200px" }}
-          className="btn bg-purple my-4 text-white"
+          className="btn bg-purple my-4"
           href="/search"
         >
           Arama Yap
@@ -26,7 +26,13 @@ export default function Home() {
           <ul style={{ alignSelf: "start" }}>
             <li>
               2023 yılı Şubat ayında{" "}
-              <a href="https://twitter.com/oncekiyazilimci">@oncekiyazılımcı</a>
+              <a
+                className="text-info"
+                href="https://twitter.com/oncekiyazilimci"
+                target="_blank"
+              >
+                @oncekiyazılımcı
+              </a>
               &apos;nın yaptığı anket sonuçlarını analiz etmenize yarayan bir
               uygulamadır
             </li>
