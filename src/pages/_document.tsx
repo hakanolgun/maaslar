@@ -23,7 +23,7 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           {CssBaseline.flush()}
-          <meta name="description" content="Yazılım sektörü ücret bilgileri" />
+          <meta name="description" content="Bilişim Sektörü Ücretler" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="icon" href="/favicon.ico" />
           <link
