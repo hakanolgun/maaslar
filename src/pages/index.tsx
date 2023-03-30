@@ -11,7 +11,7 @@ export default function Home() {
         <title>Bilişim Sektörü Ücretler</title>
       </Head>
       <section
-        style={{ minHeight: "100vh", backgroundColor: "black" }}
+        style={{ backgroundColor: "black" }}
         className="container d-flex flex-column align-items-center justify-content-center p-4"
       >
         <Link
@@ -47,7 +47,7 @@ export default function Home() {
           <h2>Ne Değildir?</h2>
           <ul style={{ alignSelf: "start" }}>
             <li>
-              Maaşlara ekstraların dahil olup olmadığı net değildir (Yol, yemek
+              Maaşlara yan hakların dahil olup olmadığı net değildir (Yol, yemek
               vs.)
             </li>
             <li>
