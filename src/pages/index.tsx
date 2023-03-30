@@ -19,7 +19,7 @@ export default function Home() {
           className="btn btn-lg bg-purple my-4 text-white"
           href="/search"
         >
-          Arama Yap
+          Ücret Filtrele
         </Link>
         <div className="w-100 h-100 d-flex flex-column align-items-center text-white py-5 px-1">
           <h2>Nedir?</h2>
@@ -55,9 +55,8 @@ export default function Home() {
               günde kaç saat mesai yapıldığı net değildir.
             </li>
             <li>
-              Türkiye gibi yüksek enflasyona sahip ve parasının değeri sürekli
-              düşen bir ülkede bu rakamlar her geçen ay güncel rakamların
-              gerisinde kalır.
+              Yüksek enflasyona sahip ve parasının değeri sürekli düşen bir
+              ülkede sonuçlar her geçen ay güncel rakamların gerisinde kalır.
             </li>
           </ul>
         </div>
