@@ -16,4 +16,5 @@ export interface IData {
 export interface IFilter {
   level: string[];
   position: string[];
+  experience: string[];
 }
