@@ -263,7 +263,6 @@ export const tech_stacks = [
   "tailwind",
   "mvc",
   "tsql",
-  "javascript html css",
   "oracle forms",
   "codar",
   "jenkims",
