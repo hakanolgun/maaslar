@@ -10,7 +10,8 @@
 
 # next.js
 /.next/
-/out/
+# Comment following line if you use github pages
+# /out/
 
 # production
 /build
