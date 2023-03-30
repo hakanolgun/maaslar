@@ -4,7 +4,7 @@ import { useAppSelector } from "./hooks";
 
 interface IState {
   results: {
-    count: number;
+    count: number | null;
     average: number;
     median: number;
   };
@@ -12,7 +12,7 @@ interface IState {
 
 const initialState: IState = {
   results: {
-    count: 0,
+    count: null,
     average: 0,
     median: 0,
   },
