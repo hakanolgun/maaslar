@@ -77,3 +77,13 @@ a {
 .bg-purple {
   background-color: #df2ef7 !important;
 }
+
+.footerContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-color: #333;
+  padding: 2rem 1rem 0;
+}
