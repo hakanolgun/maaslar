@@ -15,6 +15,11 @@ export function getFilteredResult(filter: IFilter) {
       filter.position.includes(item.position)
     );
   }
+  if (filter.experience.length > 0) {
+    filteredArray = filteredArray.filter((item: IData) =>
+      filter.experience.includes(item.experience)
+    );
+  }
   return filteredArray;
 }
 
