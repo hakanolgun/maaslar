@@ -9,21 +9,16 @@ import {
   changePosition,
   changeWorkType,
 } from "@/store/filterSlice";
-import { Text } from "@nextui-org/react";
+import Head from "next/head";
 
 export default function Search() {
   return (
-    <main>
-      <div className="d-flex flex-column justify-content-center align-items-center gap-2 py-4 bg-">
-        <div className="cardContainer text-white align-items-start">
-          <Text color="warning" className="mb-0">
-            *Tüm bölümleri doldurmanız gerekmez
-          </Text>
-          <Text color="warning" className="mb-0">
-            * Bir bölümde seçim yapmadığınız zaman tüm seçenekleri seçmiş
-            olursunuz
-          </Text>
-        </div>
+    <>
+      <Head>
+        <title>Yazılım Sektörü Ücretler</title>
+      </Head>
+      <section className="d-flex flex-column justify-content-center align-items-center gap-2 py-4">
+        <SearchInfo />
         <MultiFilter
           options={positions}
           update={changePosition}
@@ -50,7 +45,19 @@ export default function Search() {
         />
         <SearchBtn />
         <Result />
-      </div>
-    </main>
+      </section>
+    </>
+  );
+}
+
+function SearchInfo() {
+  return (
+    <div className="cardContainer text-white align-items-start mb-2">
+      <p className="mb-0 text-warning">* Tüm bölümleri doldurmanız gerekmez</p>
+      <p className="mb-0 text-warning">
+        * Bir bölümü boş bıraktığınızda hepsi seçilmiş olur
+      </p>
+      <p className="mb-0 text-warning">* Birden fazla seçenek seçebilirsiniz</p>
+    </div>
   );
 }
