@@ -20,6 +20,11 @@ export function getFilteredResult(filter: IFilter) {
       filter.experience.includes(item.experience)
     );
   }
+  if (filter.workType.length > 0) {
+    filteredArray = filteredArray.filter((item: IData) =>
+      filter.workType.includes(item.work_type)
+    );
+  }
   return filteredArray;
 }
 

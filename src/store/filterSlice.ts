@@ -1,13 +1,10 @@
 import { createSlice } from "@reduxjs/toolkit";
 import type { RootState } from "./store";
 import { useAppSelector } from "./hooks";
+import { IFilter } from "@/types/types";
 
 interface IState {
-  filters: {
-    level: string[];
-    position: string[];
-    experience: string[];
-  };
+  filters: IFilter;
 }
 
 const initialState: IState = {
@@ -15,6 +12,7 @@ const initialState: IState = {
     level: [],
     position: [],
     experience: [],
+    workType: [],
   },
 };
 
@@ -31,10 +29,13 @@ export const filterSlice = createSlice({
     changeExperience: (state, action) => {
       state.filters.experience = action.payload;
     },
+    changeWorkType: (state, action) => {
+      state.filters.workType = action.payload;
+    },
   },
 });
 
-export const { changeLevel, changePosition, changeExperience } =
+export const { changeLevel, changePosition, changeExperience, changeWorkType } =
   filterSlice.actions;
 
 export const useFilters = () =>

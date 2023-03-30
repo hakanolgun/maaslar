@@ -68,6 +68,23 @@ export const positions = [
   "Integration Manager",
   "Cyber Security",
 ];
+export const experiences = [
+  "0 - 1 Yıl",
+  "1 - 3 Yıl",
+  "3 - 5 Yıl",
+  "5 - 7 Yıl",
+  "7 - 10 Yıl",
+  "10 - 12 Yıl",
+  "12 - 14 Yıl",
+  "15 Yıl ve üzeri",
+];
+export const work_types = [
+  "Remote",
+  "Hibrit (Ofis + Remote)",
+  "Ofis",
+  "Şu an remote ama hibrite döneceğiz.",
+  "Şu an hibrit ama ofise döneceğiz.",
+];
 export const tech_stacks = [
   "java",
   "react",
@@ -425,24 +442,6 @@ export const tech_stacks = [
   "server",
   "power bi sql excel",
 ];
-export const experiences = [
-  "1 - 3 Yıl",
-  "0 - 1 Yıl",
-  "5 - 7 Yıl",
-  "7 - 10 Yıl",
-  "12 - 14 Yıl",
-  "3 - 5 Yıl",
-  "10 - 12 Yıl",
-  "15 Yıl ve üzeri",
-];
-export const work_types = [
-  "Hibrit (Ofis + Remote)",
-  "Remote",
-  "Şu an remote ama hibrite döneceğiz.",
-  "Ofis",
-  "Şu an hibrit ama ofise döneceğiz.",
-];
-
 export const cities = [
   "i̇stanbul",
   "i̇zmir",

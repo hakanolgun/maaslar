@@ -17,4 +17,5 @@ export interface IFilter {
   level: string[];
   position: string[];
   experience: string[];
+  workType: string[];
 }

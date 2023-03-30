@@ -2,8 +2,12 @@ import React from "react";
 import SearchBtn from "@/components/SearchBtn";
 import Result from "@/components/Result";
 import MultiFilter from "@/components/MultiFilter";
-import { positions, experiences } from "@/data/filters";
-import { changeExperience, changePosition } from "@/store/filterSlice";
+import { positions, experiences, work_types } from "@/data/filters";
+import {
+  changeExperience,
+  changePosition,
+  changeWorkType,
+} from "@/store/filterSlice";
 
 export default function Search() {
   return (
@@ -18,6 +22,11 @@ export default function Search() {
           options={experiences}
           update={changeExperience}
           title="Tecrübe"
+        />
+        <MultiFilter
+          options={work_types}
+          update={changeWorkType}
+          title="Çalışma Türü"
         />
         <SearchBtn />
         <Result />
