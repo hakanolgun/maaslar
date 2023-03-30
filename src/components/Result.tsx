@@ -8,28 +8,28 @@ const Result = () => {
     return <div />;
   }
 
-  if (results.count < 10) {
+  if (results.count < 8) {
     return <NotEnoughData />;
   }
 
   return (
     <div className="d-flex flex-column cardContainer text-white">
-      <div className="pt-3">
-        Seçtiğiniz kriterlere göre {results.count} kişi bulundu.
-      </div>
-      <div className="fs-5 my-1">Bu çalışanların</div>
+      <p className="pt-3">
+        Seçtiğiniz kriterlere uygun <strong>{results.count}</strong> kişi
+        bulundu. Bu kişilerin;
+      </p>
       <SalaryRow title="Ortalama Maaşı:" data={results.average.toFixed(3)} />
       <SalaryRow title="Medyan Maaşı:" data={results.median.toFixed(3)} />
-      <p className="">
-        Not: Yukarıdaki maaşlar 2023 Şubat ayının verilerine göre
-        hesaplanmıştır. Bu maaşların bugünkü karşılığını bulmak için aşağıdaki
-        bağlantıyı kullanabilirsiniz
+      <p className="py-1">
+        Not: Yukarıdaki rakamlar 2023 Şubat ayının verilerine göre
+        hesaplanmıştır. Bu rakamların şu anda karşılığını bulmak için aşağıdaki
+        bağlantıyı kullanabilirsiniz.
       </p>
       <a
         className="text-info"
         href="https://herkesicin.tcmb.gov.tr/wps/wcm/connect/ekonomi/hie/icerik/enflasyon+hesaplayici"
       >
-        Bugünkü karşılığını hesapla
+        Enflasyon hesaplama bağlantısı
       </a>
     </div>
   );
@@ -38,9 +38,9 @@ export default Result;
 
 const SalaryRow = ({ title, data }: any) => {
   return (
-    <div className="d-flex justify-content-around w-100 p-2 align-items-center">
-      <p className="mb-0 fs-4 text-success">{title}</p>
-      <p className="mb-0 fs-4 fw-bold text-success">{data} ₺</p>
+    <div className="d-flex justify-content-between w-100 p-2 align-items-center">
+      <p className="mb-0 fs-4 text-purple">{title}</p>
+      <p className="mb-0 fs-4 fw-bold text-purple">{data} ₺</p>
     </div>
   );
 };

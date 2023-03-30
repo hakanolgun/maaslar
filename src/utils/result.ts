@@ -38,16 +38,15 @@ export function getSalariesArray(result: IData[]) {
 }
 
 export function getAverageSalary(salariesArr: number[]) {
-  if (salariesArr.length < 10) return 0;
+  if (salariesArr.length < 8) return 0;
   const sum = salariesArr.reduce((a, b) => a + b, 0);
   const avg = sum / salariesArr.length || 0;
   return Number(avg.toFixed(3));
 }
 
 export function getMedianSalary(salariesArr: number[]) {
-  if (salariesArr.length < 10) return 0;
+  if (salariesArr.length < 8) return 0;
   const sorted = Array.from(salariesArr).sort((a, b) => a - b);
-  console.log("sorted", sorted);
   const middle = Math.floor(sorted.length / 2);
 
   if (sorted.length % 2 === 0) {
