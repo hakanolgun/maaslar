@@ -63,6 +63,10 @@ export default function Home() {
               branşlarda (tasarım, sistem vs.) yeterli veri bulunamadı yanıtı
               alabilirsiniz
             </li>
+            <li>
+              Dolar, Euro gibi yabancı para cinsinden ücret alanlar dahil
+              edilmemiştir.
+            </li>
           </ul>
         </div>
       </section>
