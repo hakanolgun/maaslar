@@ -74,6 +74,11 @@ function SearchInfo() {
         * Bir bölümü boş bıraktığınızda hepsi seçilmiş olur
       </p>
       <p className="mb-0 text-warning">* Birden fazla seçenek seçebilirsiniz</p>
+      <p className="mb-0 text-warning">
+        * Teknoloji seçimi yapacaksanız olası ihtimalleri düşününüz. Örneğin
+        katılımcı .net girmiş ama c# girmemiş olabilir. Sadece c# eklerseniz
+        .net girenleri elemiş olursunuz. İkisini de eklemelisiniz
+      </p>
     </div>
   );
 }
