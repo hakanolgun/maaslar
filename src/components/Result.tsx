@@ -8,7 +8,7 @@ const Result = () => {
     return <div />;
   }
 
-  if (results.count < 8) {
+  if (results.count < 3) {
     return <NotEnoughData />;
   }
 

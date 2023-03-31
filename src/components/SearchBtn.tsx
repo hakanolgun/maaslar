@@ -26,6 +26,7 @@ const SearchBtn = () => {
       average: averageSalary,
       median: medianSalary,
     };
+    console.log("updatedResult", updatedResult);
 
     dispatch(changeResult(updatedResult));
   };
