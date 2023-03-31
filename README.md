@@ -21,3 +21,7 @@
 
 1. `docker build . -t maaslar`
 2. `docker run -p 3000:3000 maaslar`
+
+### Not
+
+- Github Pages konfigürasyonundan dolayı proje ana sayfası `localhost:3000` değil `localhost:3000/maaslar` adresinde bulunmaktadır.
