@@ -7,7 +7,7 @@ class MyDocument extends Document {
       <Html lang="tr">
         <Head>
           <meta name="description" content="Bilişim Sektörü Ücretler" />
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="/maaslar/favicon.ico" />
           <link
             rel="stylesheet"
             href="https://unpkg.com/react-bootstrap-typeahead/css/Typeahead.css"
