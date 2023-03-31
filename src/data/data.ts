@@ -24094,7 +24094,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Full Stack Developer",
-    tech_stack: "ASP. NET CORE, C#, MS SQL",
+    tech_stack: ".net, C#, MS SQL",
     experience: "7 - 10 Yıl",
     gender: "Erkek",
     company: "Outsource",
@@ -51721,7 +51721,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "React, Next",
+    tech_stack: "React, Next.js",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -56191,7 +56191,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "JavaScript , Html , Css, React, Nextjs",
+    tech_stack: "JavaScript , Html , Css, React, next.js",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Dijital / Reklam Ajansı",
@@ -57118,7 +57118,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "HTML 5, CSS 3, Javascript, TypeScript",
+    tech_stack: "HTML, CSS, Javascript, TypeScript",
     experience: "0 - 1 Yıl",
     gender: "Erkek",
     company: "Startup",
@@ -57188,7 +57188,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "React, React Native, NextJS",
+    tech_stack: "React, React Native, next.js",
     experience: "3 - 5 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -63064,7 +63064,7 @@ const DATA = [
     level: "Junior",
     position: "Full Stack Developer",
     tech_stack:
-      ".Net, JavaScript , Html , Css, .Net Core MVC, WCF, WPF, Git, TFS, Jenkins, IIS, ",
+      ".Net, JavaScript , Html , Css, .net, WCF, WPF, Git, TFS, Jenkins, IIS, ",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -70047,7 +70047,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native, nextjs",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, React Native, next.js",
     experience: "10 - 12 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -81922,7 +81922,7 @@ const DATA = [
   {
     level: "Middle",
     position: "Front-end Developer",
-    tech_stack: "NodeJS, JavaScript , Html , Css, React, NextJS",
+    tech_stack: "NodeJS, JavaScript , Html , Css, React, next.js",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82315,7 +82315,7 @@ const DATA = [
   {
     level: "Senior",
     position: "Software Development Manager / Engineering Manager",
-    tech_stack: ".Net, .Net Core",
+    tech_stack: ".Net",
     experience: "15 Yıl ve üzeri",
     gender: "Erkek",
     company: "Kurumsal",
@@ -82889,7 +82889,7 @@ const DATA = [
   {
     level: "Junior",
     position: "Front-end Developer",
-    tech_stack: "Php, HTML, CSS, JS",
+    tech_stack: "Php, HTML, CSS, JavaScript",
     experience: "1 - 3 Yıl",
     gender: "Erkek",
     company: "E-Ticaret",
