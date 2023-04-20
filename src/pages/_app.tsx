@@ -6,6 +6,7 @@ import { store } from "@/store/store";
 import { Provider } from "react-redux";
 import Layout from "./_layout";
 import Head from "next/head";
+import Script from "next/script";
 export default function App({ Component, pageProps }: AppProps) {
   useEffect(() => {
     import("bootstrap/dist/js/bootstrap" as never);
@@ -22,6 +23,21 @@ export default function App({ Component, pageProps }: AppProps) {
       <Provider store={store}>
         <Layout>
           <Component {...pageProps} />
+          <Script
+            async
+            strategy="afterInteractive"
+            src="https://www.googletagmanager.com/gtag/js?id=G-K18D6NP8G0"
+          />
+          <Script id="google-analytics" strategy="afterInteractive">
+            {`
+            window.dataLayer = window.dataLayer || []; 
+            function gtag(){
+              dataLayer.push(arguments)
+            }
+            gtag('js', new Date()); 
+            gtag('config', 'G-K18D6NP8G0')
+            `}
+          </Script>
         </Layout>
       </Provider>
     </>
