@@ -438,7 +438,6 @@ export const cities = [
   "eskişehir",
   "kayseri",
   "çorum",
-  "duzce",
   "düzce",
   "kocaeli",
   "mersin",

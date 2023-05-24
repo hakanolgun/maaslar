@@ -415,7 +415,7 @@ const DATA = [
     company: "E-Ticaret",
     company_size: "10 - 20 Kişi",
     work_type: "Remote",
-    city: "Duzce",
+    city: "düzce",
     currency: "₺ - Türk Lirası",
     salary: "34.000 - 34.999",
     raise_period: "1",
