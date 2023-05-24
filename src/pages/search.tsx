@@ -16,53 +16,47 @@ import {
   changeWorkType,
   changeTechStack,
 } from "@/store/filterSlice";
-import Head from "next/head";
 
 export default function Search() {
   return (
-    <>
-      <Head>
-        <title>Bilişim Sektörü Ücretler</title>
-      </Head>
-      <section
-        style={{ backgroundColor: "black" }}
-        className="d-flex flex-grow-1 flex-column justify-content-center align-items-center gap-2 py-4"
-      >
-        <SearchInfo />
-        <MultiFilter
-          options={positions}
-          update={changePosition}
-          title="Pozisyon"
-          name="position"
-        />
-        <MultiFilter
-          options={experiences}
-          update={changeExperience}
-          title="Tecrübe"
-          name="experience"
-        />
-        <MultiFilter
-          options={work_types}
-          update={changeWorkType}
-          title="Çalışma Türü"
-          name="workType"
-        />
-        <MultiFilter
-          options={cities}
-          update={changeCity}
-          title="Şehir"
-          name="city"
-        />
-        <MultiFilter
-          options={tech_stacks}
-          update={changeTechStack}
-          title="Teknolojiler"
-          name="techStack"
-        />
-        <SearchBtn />
-        <Result />
-      </section>
-    </>
+    <section
+      style={{ backgroundColor: "black" }}
+      className="d-flex flex-grow-1 flex-column justify-content-center align-items-center gap-2 py-4"
+    >
+      <SearchInfo />
+      <MultiFilter
+        options={positions}
+        update={changePosition}
+        title="Pozisyon"
+        name="position"
+      />
+      <MultiFilter
+        options={experiences}
+        update={changeExperience}
+        title="Tecrübe"
+        name="experience"
+      />
+      <MultiFilter
+        options={work_types}
+        update={changeWorkType}
+        title="Çalışma Türü"
+        name="workType"
+      />
+      <MultiFilter
+        options={cities}
+        update={changeCity}
+        title="Şehir"
+        name="city"
+      />
+      <MultiFilter
+        options={tech_stacks}
+        update={changeTechStack}
+        title="Teknolojiler"
+        name="techStack"
+      />
+      <SearchBtn />
+      <Result />
+    </section>
   );
 }
 
