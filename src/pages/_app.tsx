@@ -19,6 +19,7 @@ export default function App({ Component, pageProps }: AppProps) {
           property="og:image"
           content="https://hakanolgun.github.io/maaslar/cover.png"
         />
+        <title>Bilişim Sektörü Ücretler</title>
       </Head>
       <Provider store={store}>
         <Layout>
