@@ -40,8 +40,8 @@ export default Result;
 const SalaryRow = ({ title, data }: any) => {
   return (
     <div className="d-flex justify-content-between w-100 p-2 align-items-center">
-      <p className="mb-0 fs-4 text-purple">{title}</p>
-      <p className="mb-0 fs-4 fw-bold text-purple">{data} ₺</p>
+      <p className="mb-0 fs-4 text-warning">{title}</p>
+      <p className="mb-0 fs-4 fw-bold text-warning">{data} ₺</p>
     </div>
   );
 };
