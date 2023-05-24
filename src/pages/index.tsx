@@ -10,10 +10,7 @@ export default function Home() {
       <Head>
         <title>Bilişim Sektörü Ücretler</title>
       </Head>
-      <section
-        style={{ backgroundColor: "black", minHeight: "80%" }}
-        className="container d-flex flex-column align-items-center justify-content-center p-4"
-      >
+      <section className="container flex-grow-1 d-flex flex-column align-items-center justify-content-center p-4">
         <Link
           style={{ textDecoration: "none", width: "200px" }}
           className="btn btn-lg bg-purple my-4 text-white"
@@ -21,7 +18,7 @@ export default function Home() {
         >
           Ücret Filtrele
         </Link>
-        <div className="w-100 h-100 d-flex flex-column align-items-center text-white py-5 px-1">
+        <div className="w-100 d-flex flex-column align-items-center justify-content-center text-white py-5 px-1">
           <h2>Nedir?</h2>
           <ul style={{ alignSelf: "start" }}>
             <li>

@@ -26,7 +26,7 @@ export default function Search() {
       </Head>
       <section
         style={{ backgroundColor: "black" }}
-        className="d-flex flex-column justify-content-center align-items-center gap-2 py-4"
+        className="d-flex flex-grow-1 flex-column justify-content-center align-items-center gap-2 py-4"
       >
         <SearchInfo />
         <MultiFilter
