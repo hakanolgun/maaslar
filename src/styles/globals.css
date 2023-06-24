@@ -9,7 +9,7 @@ body {
   height: 100%;
   min-height: 100vh;
   overflow-x: hidden;
-  background-color: black;
+  background-color: black !important;
   scroll-behavior: smooth;
 }
 
