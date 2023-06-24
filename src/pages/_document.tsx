@@ -6,7 +6,14 @@ class MyDocument extends Document {
     return (
       <Html lang="tr">
         <Head>
-          <meta name="description" content="Bilişim Sektörü Ücretler" />
+          <meta
+            name="description"
+            content="Bilişim Sektörü Ücretler, Yazılımcı maaşları"
+          />
+          <meta
+            name="keywords"
+            content="bilişim sektörü, yazılımcı maaşları, yazılımcı ücretleri"
+          />
           <link rel="icon" href="/maaslar/favicon.ico" />
           <link
             rel="stylesheet"
